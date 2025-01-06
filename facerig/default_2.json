@@ -1,0 +1,5032 @@
+{
+    "ShapeKeys": [
+        {
+            "ShapeKey": "C_glabella_down_pose",
+            "Expression": "var*40",
+            "Variables": [
+                {
+                    "Variable": "var",
+                    "Type": "TRANSFORMS",
+                    "Targets": [
+                        {
+                            "ID": "SK_M_Med_Soldier_04",
+                            "DataPath": "",
+                            "Object": "SK_M_Med_Soldier_04",
+                            "Bone": "CTRL_Glabella",
+                            "TransformType": "LOC_Z",
+                            "TransformSpace": "LOCAL_SPACE"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "ShapeKey": "tongue_up_pose",
+            "Expression": "var*-40",
+            "Variables": [
+                {
+                    "Variable": "var",
+                    "Type": "TRANSFORMS",
+                    "Targets": [
+                        {
+                            "ID": "SK_M_Med_Soldier_04",
+                            "DataPath": "",
+                            "Object": "SK_M_Med_Soldier_04",
+                            "Bone": "CTRL_tongue_UD",
+                            "TransformType": "LOC_Z",
+                            "TransformSpace": "LOCAL_SPACE"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "ShapeKey": "phoneme_mbp_pose",
+            "Expression": "var*40",
+            "Variables": [
+                {
+                    "Variable": "var",
+                    "Type": "TRANSFORMS",
+                    "Targets": [
+                        {
+                            "ID": "SK_M_Med_Soldier_04",
+                            "DataPath": "",
+                            "Object": "SK_M_Med_Soldier_04",
+                            "Bone": "CTRL_phoneme",
+                            "TransformType": "LOC_Z",
+                            "TransformSpace": "LOCAL_SPACE"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "ShapeKey": "L_upper_lip_lower_pose",
+            "Expression": "var*40",
+            "Variables": [
+                {
+                    "Variable": "var",
+                    "Type": "TRANSFORMS",
+                    "Targets": [
+                        {
+                            "ID": "SK_M_Med_Soldier_04",
+                            "DataPath": "",
+                            "Object": "SK_M_Med_Soldier_04",
+                            "Bone": "CTRL_L_Upper_Lip",
+                            "TransformType": "LOC_Z",
+                            "TransformSpace": "LOCAL_SPACE"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "ShapeKey": "R_blink_pose",
+            "Expression": "var*40",
+            "Variables": [
+                {
+                    "Variable": "var",
+                    "Type": "TRANSFORMS",
+                    "Targets": [
+                        {
+                            "ID": "SK_M_Med_Soldier_04",
+                            "DataPath": "",
+                            "Object": "SK_M_Med_Soldier_04",
+                            "Bone": "CTRL_R_Blink",
+                            "TransformType": "LOC_Z",
+                            "TransformSpace": "LOCAL_SPACE"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "ShapeKey": "R_wide_pose",
+            "Expression": "var*-40",
+            "Variables": [
+                {
+                    "Variable": "var",
+                    "Type": "TRANSFORMS",
+                    "Targets": [
+                        {
+                            "ID": "SK_M_Med_Soldier_04",
+                            "DataPath": "",
+                            "Object": "SK_M_Med_Soldier_04",
+                            "Bone": "CRTL_R_UpperEyeLid",
+                            "TransformType": "LOC_Z",
+                            "TransformSpace": "LOCAL_SPACE"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "ShapeKey": "look_right_pose",
+            "Expression": "var*-40",
+            "Variables": [
+                {
+                    "Variable": "var",
+                    "Type": "TRANSFORMS",
+                    "Targets": [
+                        {
+                            "ID": "SK_M_Med_Soldier_04",
+                            "DataPath": "",
+                            "Object": "SK_M_Med_Soldier_04",
+                            "Bone": "CTRL_Eye_Look",
+                            "TransformType": "LOC_X",
+                            "TransformSpace": "LOCAL_SPACE"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "ShapeKey": "jaw_up_pose",
+            "Expression": "var*-40",
+            "Variables": [
+                {
+                    "Variable": "var",
+                    "Type": "TRANSFORMS",
+                    "Targets": [
+                        {
+                            "ID": "SK_M_Med_Soldier_04",
+                            "DataPath": "",
+                            "Object": "SK_M_Med_Soldier_04",
+                            "Bone": "CTRL_Jaw",
+                            "TransformType": "LOC_Z",
+                            "TransformSpace": "LOCAL_SPACE"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "ShapeKey": "L_squeeze_pose",
+            "Expression": "var*40",
+            "Variables": [
+                {
+                    "Variable": "var",
+                    "Type": "TRANSFORMS",
+                    "Targets": [
+                        {
+                            "ID": "SK_M_Med_Soldier_04",
+                            "DataPath": "",
+                            "Object": "SK_M_Med_Soldier_04",
+                            "Bone": "CRTL_L_Squeeze",
+                            "TransformType": "LOC_Z",
+                            "TransformSpace": "LOCAL_SPACE"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "ShapeKey": "R_brow_up_pose",
+            "Expression": "var *-40",
+            "Variables": [
+                {
+                    "Variable": "var",
+                    "Type": "TRANSFORMS",
+                    "Targets": [
+                        {
+                            "ID": "SK_M_Med_Soldier_04",
+                            "DataPath": "",
+                            "Object": "SK_M_Med_Soldier_04",
+                            "Bone": "CRTL_R_EyeBrown",
+                            "TransformType": "LOC_Z",
+                            "TransformSpace": "LOCAL_SPACE"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "ShapeKey": "look_left_pose",
+            "Expression": "var*40",
+            "Variables": [
+                {
+                    "Variable": "var",
+                    "Type": "TRANSFORMS",
+                    "Targets": [
+                        {
+                            "ID": "SK_M_Med_Soldier_04",
+                            "DataPath": "",
+                            "Object": "SK_M_Med_Soldier_04",
+                            "Bone": "CTRL_Eye_Look",
+                            "TransformType": "LOC_X",
+                            "TransformSpace": "LOCAL_SPACE"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "ShapeKey": "tongue_back_pose",
+            "Expression": "var*40",
+            "Variables": [
+                {
+                    "Variable": "var",
+                    "Type": "TRANSFORMS",
+                    "Targets": [
+                        {
+                            "ID": "SK_M_Med_Soldier_04",
+                            "DataPath": "",
+                            "Object": "SK_M_Med_Soldier_04",
+                            "Bone": "CTRL_tongue_BF",
+                            "TransformType": "LOC_Z",
+                            "TransformSpace": "LOCAL_SPACE"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "ShapeKey": "R_squint_inner_pose",
+            "Expression": "var*-40",
+            "Variables": [
+                {
+                    "Variable": "var",
+                    "Type": "TRANSFORMS",
+                    "Targets": [
+                        {
+                            "ID": "SK_M_Med_Soldier_04",
+                            "DataPath": "",
+                            "Object": "SK_M_Med_Soldier_04",
+                            "Bone": "CRTL_R_Squint",
+                            "TransformType": "LOC_Z",
+                            "TransformSpace": "LOCAL_SPACE"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "ShapeKey": "look_up_pose",
+            "Expression": "var*-40",
+            "Variables": [
+                {
+                    "Variable": "var",
+                    "Type": "TRANSFORMS",
+                    "Targets": [
+                        {
+                            "ID": "SK_M_Med_Soldier_04",
+                            "DataPath": "",
+                            "Object": "SK_M_Med_Soldier_04",
+                            "Bone": "CTRL_Eye_Look",
+                            "TransformType": "LOC_Z",
+                            "TransformSpace": "LOCAL_SPACE"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "ShapeKey": "phoneme_fv_pose",
+            "Expression": "var*-40",
+            "Variables": [
+                {
+                    "Variable": "var",
+                    "Type": "TRANSFORMS",
+                    "Targets": [
+                        {
+                            "ID": "SK_M_Med_Soldier_04",
+                            "DataPath": "",
+                            "Object": "SK_M_Med_Soldier_04",
+                            "Bone": "CTRL_phoneme",
+                            "TransformType": "LOC_Z",
+                            "TransformSpace": "LOCAL_SPACE"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "ShapeKey": "jaw_back_pose",
+            "Expression": "var*-40",
+            "Variables": [
+                {
+                    "Variable": "var",
+                    "Type": "TRANSFORMS",
+                    "Targets": [
+                        {
+                            "ID": "SK_M_Med_Soldier_04",
+                            "DataPath": "",
+                            "Object": "SK_M_Med_Soldier_04",
+                            "Bone": "CTRL_Jaw_BF",
+                            "TransformType": "LOC_Z",
+                            "TransformSpace": "LOCAL_SPACE"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "ShapeKey": "R_smile_pose",
+            "Expression": "var*-40",
+            "Variables": [
+                {
+                    "Variable": "var",
+                    "Type": "TRANSFORMS",
+                    "Targets": [
+                        {
+                            "ID": "SK_M_Med_Soldier_04",
+                            "DataPath": "",
+                            "Object": "SK_M_Med_Soldier_04",
+                            "Bone": "CTRL_R_Smile",
+                            "TransformType": "LOC_Z",
+                            "TransformSpace": "LOCAL_SPACE"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "ShapeKey": "R_lip_corner_narrow_pose",
+            "Expression": "var*40",
+            "Variables": [
+                {
+                    "Variable": "var",
+                    "Type": "TRANSFORMS",
+                    "Targets": [
+                        {
+                            "ID": "SK_M_Med_Soldier_04",
+                            "DataPath": "",
+                            "Object": "SK_M_Med_Soldier_04",
+                            "Bone": "CTRL_R_Corner_Lip",
+                            "TransformType": "LOC_X",
+                            "TransformSpace": "LOCAL_SPACE"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "ShapeKey": "eye_convergence_pose",
+            "Expression": "var *-40",
+            "Variables": [
+                {
+                    "Variable": "var",
+                    "Type": "TRANSFORMS",
+                    "Targets": [
+                        {
+                            "ID": "SK_M_Med_Soldier_04",
+                            "DataPath": "",
+                            "Object": "SK_M_Med_Soldier_04",
+                            "Bone": "CTRL_Eye_Convergence",
+                            "TransformType": "LOC_Z",
+                            "TransformSpace": "LOCAL_SPACE"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "ShapeKey": "R_brow_down_pose",
+            "Expression": "var *40",
+            "Variables": [
+                {
+                    "Variable": "var",
+                    "Type": "TRANSFORMS",
+                    "Targets": [
+                        {
+                            "ID": "SK_M_Med_Soldier_04",
+                            "DataPath": "",
+                            "Object": "SK_M_Med_Soldier_04",
+                            "Bone": "CRTL_R_EyeBrown",
+                            "TransformType": "LOC_Z",
+                            "TransformSpace": "LOCAL_SPACE"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "ShapeKey": "R_frown_pose",
+            "Expression": "var*40",
+            "Variables": [
+                {
+                    "Variable": "var",
+                    "Type": "TRANSFORMS",
+                    "Targets": [
+                        {
+                            "ID": "SK_M_Med_Soldier_04",
+                            "DataPath": "",
+                            "Object": "SK_M_Med_Soldier_04",
+                            "Bone": "CTRL_R_Smile",
+                            "TransformType": "LOC_Z",
+                            "TransformSpace": "LOCAL_SPACE"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "ShapeKey": "L_lower_lip_down_pose",
+            "Expression": "var*40",
+            "Variables": [
+                {
+                    "Variable": "var",
+                    "Type": "TRANSFORMS",
+                    "Targets": [
+                        {
+                            "ID": "SK_M_Med_Soldier_04",
+                            "DataPath": "",
+                            "Object": "SK_M_Med_Soldier_04",
+                            "Bone": "CTRL_L_Lower_Lip",
+                            "TransformType": "LOC_Z",
+                            "TransformSpace": "LOCAL_SPACE"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "ShapeKey": "L_blink_pose",
+            "Expression": "var*40",
+            "Variables": [
+                {
+                    "Variable": "var",
+                    "Type": "TRANSFORMS",
+                    "Targets": [
+                        {
+                            "ID": "SK_M_Med_Soldier_04",
+                            "DataPath": "",
+                            "Object": "SK_M_Med_Soldier_04",
+                            "Bone": "CTRL_L_Blink",
+                            "TransformType": "LOC_Z",
+                            "TransformSpace": "LOCAL_SPACE"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "ShapeKey": "L_lip_corner_narrow_pose",
+            "Expression": "var*-40",
+            "Variables": [
+                {
+                    "Variable": "var",
+                    "Type": "TRANSFORMS",
+                    "Targets": [
+                        {
+                            "ID": "SK_M_Med_Soldier_04",
+                            "DataPath": "",
+                            "Object": "SK_M_Med_Soldier_04",
+                            "Bone": "CTRL_L_Corner_Lip",
+                            "TransformType": "LOC_X",
+                            "TransformSpace": "LOCAL_SPACE"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "ShapeKey": "look_down_pose",
+            "Expression": "var*40",
+            "Variables": [
+                {
+                    "Variable": "var",
+                    "Type": "TRANSFORMS",
+                    "Targets": [
+                        {
+                            "ID": "SK_M_Med_Soldier_04",
+                            "DataPath": "",
+                            "Object": "SK_M_Med_Soldier_04",
+                            "Bone": "CTRL_Eye_Look",
+                            "TransformType": "LOC_Z",
+                            "TransformSpace": "LOCAL_SPACE"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "ShapeKey": "R_upper_lip_raiser_pose",
+            "Expression": "var*-40",
+            "Variables": [
+                {
+                    "Variable": "var",
+                    "Type": "TRANSFORMS",
+                    "Targets": [
+                        {
+                            "ID": "SK_M_Med_Soldier_04",
+                            "DataPath": "",
+                            "Object": "SK_M_Med_Soldier_04",
+                            "Bone": "CTRL_R_Upper_Lip",
+                            "TransformType": "LOC_Z",
+                            "TransformSpace": "LOCAL_SPACE"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "ShapeKey": "phoneme_oo_pose",
+            "Expression": "var*-40",
+            "Variables": [
+                {
+                    "Variable": "var",
+                    "Type": "TRANSFORMS",
+                    "Targets": [
+                        {
+                            "ID": "SK_M_Med_Soldier_04",
+                            "DataPath": "",
+                            "Object": "SK_M_Med_Soldier_04",
+                            "Bone": "CTRL_phoneme",
+                            "TransformType": "LOC_X",
+                            "TransformSpace": "LOCAL_SPACE"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "ShapeKey": "R_brow_squeeze_in_pose",
+            "Expression": "var *40",
+            "Variables": [
+                {
+                    "Variable": "var",
+                    "Type": "TRANSFORMS",
+                    "Targets": [
+                        {
+                            "ID": "SK_M_Med_Soldier_04",
+                            "DataPath": "",
+                            "Object": "SK_M_Med_Soldier_04",
+                            "Bone": "CRTL_R_EyeBrown",
+                            "TransformType": "LOC_X",
+                            "TransformSpace": "LOCAL_SPACE"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "ShapeKey": "jaw_left_pose",
+            "Expression": "var*40",
+            "Variables": [
+                {
+                    "Variable": "var",
+                    "Type": "TRANSFORMS",
+                    "Targets": [
+                        {
+                            "ID": "SK_M_Med_Soldier_04",
+                            "DataPath": "",
+                            "Object": "SK_M_Med_Soldier_04",
+                            "Bone": "CTRL_Jaw",
+                            "TransformType": "LOC_X",
+                            "TransformSpace": "LOCAL_SPACE"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "ShapeKey": "L_lip_corner_wide_pose",
+            "Expression": "var*40",
+            "Variables": [
+                {
+                    "Variable": "var",
+                    "Type": "TRANSFORMS",
+                    "Targets": [
+                        {
+                            "ID": "SK_M_Med_Soldier_04",
+                            "DataPath": "",
+                            "Object": "SK_M_Med_Soldier_04",
+                            "Bone": "CTRL_L_Corner_Lip",
+                            "TransformType": "LOC_X",
+                            "TransformSpace": "LOCAL_SPACE"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "ShapeKey": "C_nose_wrinkler_pose",
+            "Expression": "var*-40",
+            "Variables": [
+                {
+                    "Variable": "var",
+                    "Type": "TRANSFORMS",
+                    "Targets": [
+                        {
+                            "ID": "SK_M_Med_Soldier_04",
+                            "DataPath": "",
+                            "Object": "SK_M_Med_Soldier_04",
+                            "Bone": "CTRL_Nose_Wrinkle",
+                            "TransformType": "LOC_Z",
+                            "TransformSpace": "LOCAL_SPACE"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "ShapeKey": "R_lower_lip_up_pose",
+            "Expression": "var*-40",
+            "Variables": [
+                {
+                    "Variable": "var",
+                    "Type": "TRANSFORMS",
+                    "Targets": [
+                        {
+                            "ID": "SK_M_Med_Soldier_04",
+                            "DataPath": "",
+                            "Object": "SK_M_Med_Soldier_04",
+                            "Bone": "CTRL_R_Lower_Lip",
+                            "TransformType": "LOC_Z",
+                            "TransformSpace": "LOCAL_SPACE"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "ShapeKey": "jaw_open_pose",
+            "Expression": "var*40",
+            "Variables": [
+                {
+                    "Variable": "var",
+                    "Type": "TRANSFORMS",
+                    "Targets": [
+                        {
+                            "ID": "SK_M_Med_Soldier_04",
+                            "DataPath": "",
+                            "Object": "SK_M_Med_Soldier_04",
+                            "Bone": "CTRL_Jaw",
+                            "TransformType": "LOC_Z",
+                            "TransformSpace": "LOCAL_SPACE"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "ShapeKey": "L_brow_up_pose",
+            "Expression": "var *-40",
+            "Variables": [
+                {
+                    "Variable": "var",
+                    "Type": "TRANSFORMS",
+                    "Targets": [
+                        {
+                            "ID": "SK_M_Med_Soldier_04",
+                            "DataPath": "",
+                            "Object": "SK_M_Med_Soldier_04",
+                            "Bone": "CRTL_L_EyeBrown",
+                            "TransformType": "LOC_Z",
+                            "TransformSpace": "LOCAL_SPACE"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "ShapeKey": "R_lip_corner_wide_pose",
+            "Expression": "var*-40",
+            "Variables": [
+                {
+                    "Variable": "var",
+                    "Type": "TRANSFORMS",
+                    "Targets": [
+                        {
+                            "ID": "SK_M_Med_Soldier_04",
+                            "DataPath": "",
+                            "Object": "SK_M_Med_Soldier_04",
+                            "Bone": "CTRL_R_Corner_Lip",
+                            "TransformType": "LOC_X",
+                            "TransformSpace": "LOCAL_SPACE"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "ShapeKey": "L_lower_lip_up_pose",
+            "Expression": "var*-40",
+            "Variables": [
+                {
+                    "Variable": "var",
+                    "Type": "TRANSFORMS",
+                    "Targets": [
+                        {
+                            "ID": "SK_M_Med_Soldier_04",
+                            "DataPath": "",
+                            "Object": "SK_M_Med_Soldier_04",
+                            "Bone": "CTRL_L_Lower_Lip",
+                            "TransformType": "LOC_Z",
+                            "TransformSpace": "LOCAL_SPACE"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "ShapeKey": "R_lower_lip_down_pose",
+            "Expression": "var*40",
+            "Variables": [
+                {
+                    "Variable": "var",
+                    "Type": "TRANSFORMS",
+                    "Targets": [
+                        {
+                            "ID": "SK_M_Med_Soldier_04",
+                            "DataPath": "",
+                            "Object": "SK_M_Med_Soldier_04",
+                            "Bone": "CTRL_R_Lower_Lip",
+                            "TransformType": "LOC_Z",
+                            "TransformSpace": "LOCAL_SPACE"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "ShapeKey": "L_upper_lip_raiser_pose",
+            "Expression": "var*-40",
+            "Variables": [
+                {
+                    "Variable": "var",
+                    "Type": "TRANSFORMS",
+                    "Targets": [
+                        {
+                            "ID": "SK_M_Med_Soldier_04",
+                            "DataPath": "",
+                            "Object": "SK_M_Med_Soldier_04",
+                            "Bone": "CTRL_L_Upper_Lip",
+                            "TransformType": "LOC_Z",
+                            "TransformSpace": "LOCAL_SPACE"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "ShapeKey": "R_cheek_up_pose",
+            "Expression": "var*-40",
+            "Variables": [
+                {
+                    "Variable": "var",
+                    "Type": "TRANSFORMS",
+                    "Targets": [
+                        {
+                            "ID": "SK_M_Med_Soldier_04",
+                            "DataPath": "",
+                            "Object": "SK_M_Med_Soldier_04",
+                            "Bone": "CRTL_R_Cheek",
+                            "TransformType": "LOC_Z",
+                            "TransformSpace": "LOCAL_SPACE"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "ShapeKey": "L_brow_down_pose",
+            "Expression": "var *40",
+            "Variables": [
+                {
+                    "Variable": "var",
+                    "Type": "TRANSFORMS",
+                    "Targets": [
+                        {
+                            "ID": "SK_M_Med_Soldier_04",
+                            "DataPath": "",
+                            "Object": "SK_M_Med_Soldier_04",
+                            "Bone": "CRTL_L_EyeBrown",
+                            "TransformType": "LOC_Z",
+                            "TransformSpace": "LOCAL_SPACE"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "ShapeKey": "jaw_forward_pose",
+            "Expression": "var*40",
+            "Variables": [
+                {
+                    "Variable": "var",
+                    "Type": "TRANSFORMS",
+                    "Targets": [
+                        {
+                            "ID": "SK_M_Med_Soldier_04",
+                            "DataPath": "",
+                            "Object": "SK_M_Med_Soldier_04",
+                            "Bone": "CTRL_Jaw_BF",
+                            "TransformType": "LOC_Z",
+                            "TransformSpace": "LOCAL_SPACE"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "ShapeKey": "L_squint_inner_pose",
+            "Expression": "var*-40",
+            "Variables": [
+                {
+                    "Variable": "var",
+                    "Type": "TRANSFORMS",
+                    "Targets": [
+                        {
+                            "ID": "SK_M_Med_Soldier_04",
+                            "DataPath": "",
+                            "Object": "SK_M_Med_Soldier_04",
+                            "Bone": "CRTL_L_Squint",
+                            "TransformType": "LOC_Z",
+                            "TransformSpace": "LOCAL_SPACE"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "ShapeKey": "tongue_down_pose",
+            "Expression": "var*40",
+            "Variables": [
+                {
+                    "Variable": "var",
+                    "Type": "TRANSFORMS",
+                    "Targets": [
+                        {
+                            "ID": "SK_M_Med_Soldier_04",
+                            "DataPath": "",
+                            "Object": "SK_M_Med_Soldier_04",
+                            "Bone": "CTRL_tongue_UD",
+                            "TransformType": "LOC_Z",
+                            "TransformSpace": "LOCAL_SPACE"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "ShapeKey": "R_upper_lip_lower_pose",
+            "Expression": "var*40",
+            "Variables": [
+                {
+                    "Variable": "var",
+                    "Type": "TRANSFORMS",
+                    "Targets": [
+                        {
+                            "ID": "SK_M_Med_Soldier_04",
+                            "DataPath": "",
+                            "Object": "SK_M_Med_Soldier_04",
+                            "Bone": "CTRL_R_Upper_Lip",
+                            "TransformType": "LOC_Z",
+                            "TransformSpace": "LOCAL_SPACE"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "ShapeKey": "L_brow_squeeze_in_pose",
+            "Expression": "var *-40",
+            "Variables": [
+                {
+                    "Variable": "var",
+                    "Type": "TRANSFORMS",
+                    "Targets": [
+                        {
+                            "ID": "SK_M_Med_Soldier_04",
+                            "DataPath": "",
+                            "Object": "SK_M_Med_Soldier_04",
+                            "Bone": "CRTL_L_EyeBrown",
+                            "TransformType": "LOC_X",
+                            "TransformSpace": "LOCAL_SPACE"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "ShapeKey": "jaw_right_pose",
+            "Expression": "var *-40",
+            "Variables": [
+                {
+                    "Variable": "var",
+                    "Type": "TRANSFORMS",
+                    "Targets": [
+                        {
+                            "ID": "SK_M_Med_Soldier_04",
+                            "DataPath": "",
+                            "Object": "SK_M_Med_Soldier_04",
+                            "Bone": "CTRL_Jaw",
+                            "TransformType": "LOC_X",
+                            "TransformSpace": "LOCAL_SPACE"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "ShapeKey": "mouth_down_pose",
+            "Expression": "var*40",
+            "Variables": [
+                {
+                    "Variable": "var",
+                    "Type": "TRANSFORMS",
+                    "Targets": [
+                        {
+                            "ID": "SK_M_Med_Soldier_04",
+                            "DataPath": "",
+                            "Object": "SK_M_Med_Soldier_04",
+                            "Bone": "CTRL_Mouth_Control",
+                            "TransformType": "LOC_Z",
+                            "TransformSpace": "LOCAL_SPACE"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "ShapeKey": "C_glabella_up_pose",
+            "Expression": "var*-40",
+            "Variables": [
+                {
+                    "Variable": "var",
+                    "Type": "TRANSFORMS",
+                    "Targets": [
+                        {
+                            "ID": "SK_M_Med_Soldier_04",
+                            "DataPath": "",
+                            "Object": "SK_M_Med_Soldier_04",
+                            "Bone": "CTRL_Glabella",
+                            "TransformType": "LOC_Z",
+                            "TransformSpace": "LOCAL_SPACE"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "ShapeKey": "phoneme_ch_pose",
+            "Expression": "var*40",
+            "Variables": [
+                {
+                    "Variable": "var",
+                    "Type": "TRANSFORMS",
+                    "Targets": [
+                        {
+                            "ID": "SK_M_Med_Soldier_04",
+                            "DataPath": "",
+                            "Object": "SK_M_Med_Soldier_04",
+                            "Bone": "CTRL_phoneme",
+                            "TransformType": "LOC_X",
+                            "TransformSpace": "LOCAL_SPACE"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "ShapeKey": "L_frown_pose",
+            "Expression": "var*40",
+            "Variables": [
+                {
+                    "Variable": "var",
+                    "Type": "TRANSFORMS",
+                    "Targets": [
+                        {
+                            "ID": "SK_M_Med_Soldier_04",
+                            "DataPath": "",
+                            "Object": "SK_M_Med_Soldier_04",
+                            "Bone": "CTRL_L_Smile",
+                            "TransformType": "LOC_Z",
+                            "TransformSpace": "LOCAL_SPACE"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "ShapeKey": "R_squeeze_pose",
+            "Expression": "var*40",
+            "Variables": [
+                {
+                    "Variable": "var",
+                    "Type": "TRANSFORMS",
+                    "Targets": [
+                        {
+                            "ID": "SK_M_Med_Soldier_04",
+                            "DataPath": "",
+                            "Object": "SK_M_Med_Soldier_04",
+                            "Bone": "CRTL_R_Squeeze",
+                            "TransformType": "LOC_Z",
+                            "TransformSpace": "LOCAL_SPACE"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "ShapeKey": "tongue_forward_pose",
+            "Expression": "var*-40",
+            "Variables": [
+                {
+                    "Variable": "var",
+                    "Type": "TRANSFORMS",
+                    "Targets": [
+                        {
+                            "ID": "SK_M_Med_Soldier_04",
+                            "DataPath": "",
+                            "Object": "SK_M_Med_Soldier_04",
+                            "Bone": "CTRL_tongue_BF",
+                            "TransformType": "LOC_Z",
+                            "TransformSpace": "LOCAL_SPACE"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "ShapeKey": "L_upperLidDown_pose",
+            "Expression": "var *40",
+            "Variables": [
+                {
+                    "Variable": "var",
+                    "Type": "TRANSFORMS",
+                    "Targets": [
+                        {
+                            "ID": "SK_M_Med_Soldier_04",
+                            "DataPath": "",
+                            "Object": "SK_M_Med_Soldier_04",
+                            "Bone": "CRTL_L_UpperEyeLid",
+                            "TransformType": "LOC_Z",
+                            "TransformSpace": "LOCAL_SPACE"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "ShapeKey": "R_upperLidDown_pose",
+            "Expression": "var *40",
+            "Variables": [
+                {
+                    "Variable": "var",
+                    "Type": "TRANSFORMS",
+                    "Targets": [
+                        {
+                            "ID": "SK_M_Med_Soldier_04",
+                            "DataPath": "",
+                            "Object": "SK_M_Med_Soldier_04",
+                            "Bone": "CRTL_R_UpperEyeLid",
+                            "TransformType": "LOC_Z",
+                            "TransformSpace": "LOCAL_SPACE"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "ShapeKey": "L_wide_pose",
+            "Expression": "var*-40",
+            "Variables": [
+                {
+                    "Variable": "var",
+                    "Type": "TRANSFORMS",
+                    "Targets": [
+                        {
+                            "ID": "SK_M_Med_Soldier_04",
+                            "DataPath": "",
+                            "Object": "SK_M_Med_Soldier_04",
+                            "Bone": "CRTL_L_UpperEyeLid",
+                            "TransformType": "LOC_Z",
+                            "TransformSpace": "LOCAL_SPACE"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "ShapeKey": "L_smile_pose",
+            "Expression": "var*-40",
+            "Variables": [
+                {
+                    "Variable": "var",
+                    "Type": "TRANSFORMS",
+                    "Targets": [
+                        {
+                            "ID": "SK_M_Med_Soldier_04",
+                            "DataPath": "",
+                            "Object": "SK_M_Med_Soldier_04",
+                            "Bone": "CTRL_L_Smile",
+                            "TransformType": "LOC_Z",
+                            "TransformSpace": "LOCAL_SPACE"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "ShapeKey": "mouth_up_pose",
+            "Expression": "var*-40",
+            "Variables": [
+                {
+                    "Variable": "var",
+                    "Type": "TRANSFORMS",
+                    "Targets": [
+                        {
+                            "ID": "SK_M_Med_Soldier_04",
+                            "DataPath": "",
+                            "Object": "SK_M_Med_Soldier_04",
+                            "Bone": "CTRL_Mouth_Control",
+                            "TransformType": "LOC_Z",
+                            "TransformSpace": "LOCAL_SPACE"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "ShapeKey": "L_cheek_up_pose",
+            "Expression": "var*-40",
+            "Variables": [
+                {
+                    "Variable": "var",
+                    "Type": "TRANSFORMS",
+                    "Targets": [
+                        {
+                            "ID": "SK_M_Med_Soldier_04",
+                            "DataPath": "",
+                            "Object": "SK_M_Med_Soldier_04",
+                            "Bone": "CRTL_L_Cheek",
+                            "TransformType": "LOC_Z",
+                            "TransformSpace": "LOCAL_SPACE"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "BonesWithShape": [
+        {
+            "boneName": "CTRL_FaceRig",
+            "Properties": {
+                "boneHead": [
+                    0.7600000500679016,
+                    -6.7229848355054855e-09,
+                    1.5
+                ],
+                "boneTail": [
+                    0.7599998116493225,
+                    -0.0007751816883683205,
+                    1.4000000953674316
+                ],
+                "boneRotation": -4.727887153625488,
+                "parent": null
+            },
+            "BoneConstrains": [],
+            "CustomShape": null,
+            "CustomShapeRotation": null,
+            "CustomShapeLocation": null,
+            "CustomShapeScale": null,
+            "ScaleToBoneLenght": false,
+            "Wireframe": true,
+            "Color": "DEFAULT"
+        },
+        {
+            "boneName": "CTRL_JawAndFace",
+            "Properties": {
+                "boneHead": [
+                    0.5549999475479126,
+                    -1.6870018271220033e-08,
+                    1.5750001668930054
+                ],
+                "boneTail": [
+                    0.5549999475479126,
+                    -0.5999999642372131,
+                    1.575000286102295
+                ],
+                "boneRotation": 3.141589879989624,
+                "parent": "CTRL_FaceRig"
+            },
+            "BoneConstrains": [],
+            "CustomShape": "Plane.001",
+            "CustomShapeRotation": [
+                1.570796251296997,
+                2.220446049250313e-16,
+                2.220445916901415e-16
+            ],
+            "CustomShapeLocation": [
+                0.5550000667572021,
+                0.0,
+                1.5499999523162842
+            ],
+            "CustomShapeScale": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "ScaleToBoneLenght": false,
+            "Wireframe": false,
+            "Color": "THEME19"
+        },
+        {
+            "boneName": "CTRL_Eye_Convergence_parent",
+            "Properties": {
+                "boneHead": [
+                    0.569999635219574,
+                    4.46836700973563e-08,
+                    1.5800000429153442
+                ],
+                "boneTail": [
+                    0.569999635219574,
+                    -0.10000009834766388,
+                    1.5800001621246338
+                ],
+                "boneRotation": 3.141585111618042,
+                "parent": "CTRL_JawAndFace"
+            },
+            "BoneConstrains": [],
+            "CustomShape": "TEVRIG_Slider",
+            "CustomShapeRotation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "CustomShapeLocation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "CustomShapeScale": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "ScaleToBoneLenght": true,
+            "Wireframe": false,
+            "Color": "THEME17"
+        },
+        {
+            "boneName": "CTRL_Eye_Convergence",
+            "Properties": {
+                "boneHead": [
+                    0.569999635219574,
+                    -1.9671598749937402e-07,
+                    1.565000057220459
+                ],
+                "boneTail": [
+                    0.569999635219574,
+                    -0.10000008344650269,
+                    1.5650001764297485
+                ],
+                "boneRotation": 3.141585111618042,
+                "parent": "CTRL_Eye_Convergence_parent"
+            },
+            "BoneConstrains": [
+                {
+                    "name": "Limit Location",
+                    "owner_space": "LOCAL",
+                    "use_min_x": true,
+                    "use_min_y": true,
+                    "use_min_z": true,
+                    "use_max_x": true,
+                    "use_max_y": true,
+                    "use_max_z": true,
+                    "min_x": 0.0,
+                    "min_y": 0.0,
+                    "min_z": -0.029999999329447746,
+                    "max_x": 0.0,
+                    "max_y": 0.0,
+                    "max_z": 0.0
+                }
+            ],
+            "CustomShape": "TEVRIG_Circle",
+            "CustomShapeRotation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "CustomShapeLocation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "CustomShapeScale": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "ScaleToBoneLenght": true,
+            "Wireframe": false,
+            "Color": "THEME09"
+        },
+        {
+            "boneName": "CTRL_Jaw_BF_Text.023",
+            "Properties": {
+                "boneHead": [
+                    0.569999635219574,
+                    -6.876288427548616e-09,
+                    1.5430002212524414
+                ],
+                "boneTail": [
+                    0.5699996948242188,
+                    -7.589527939444451e-08,
+                    1.5976002216339111
+                ],
+                "boneRotation": -2.4501755433448125e-06,
+                "parent": "CTRL_Eye_Convergence_parent"
+            },
+            "BoneConstrains": [
+                {
+                    "name": "Limit Location",
+                    "owner_space": "LOCAL",
+                    "use_min_x": true,
+                    "use_min_y": true,
+                    "use_min_z": true,
+                    "use_max_x": true,
+                    "use_max_y": true,
+                    "use_max_z": true,
+                    "min_x": -0.029999999329447746,
+                    "min_y": -0.029999999329447746,
+                    "min_z": -0.029999999329447746,
+                    "max_x": 0.029999999329447746,
+                    "max_y": 0.029999999329447746,
+                    "max_z": 0.029999999329447746
+                }
+            ],
+            "CustomShape": "TEVRIG_Eye_Convergence",
+            "CustomShapeRotation": [
+                0.0,
+                4.440892098500626e-16,
+                -4.44089183380283e-16
+            ],
+            "CustomShapeLocation": [
+                0.9100000262260437,
+                -0.440000057220459,
+                0.0
+            ],
+            "CustomShapeScale": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "ScaleToBoneLenght": true,
+            "Wireframe": true,
+            "Color": "THEME09"
+        },
+        {
+            "boneName": "CRTL_R_Squeeze_parent",
+            "Properties": {
+                "boneHead": [
+                    0.4449999928474426,
+                    4.833112399182937e-08,
+                    1.6400001049041748
+                ],
+                "boneTail": [
+                    0.4449999928474426,
+                    -0.10000018775463104,
+                    1.6400002241134644
+                ],
+                "boneRotation": 3.1415882110595703,
+                "parent": "CTRL_JawAndFace"
+            },
+            "BoneConstrains": [],
+            "CustomShape": "TEVRIG_Slider",
+            "CustomShapeRotation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "CustomShapeLocation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "CustomShapeScale": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "ScaleToBoneLenght": true,
+            "Wireframe": false,
+            "Color": "THEME19"
+        },
+        {
+            "boneName": "CRTL_R_Squeeze",
+            "Properties": {
+                "boneHead": [
+                    0.4449999928474426,
+                    -8.321734412675141e-08,
+                    1.65500009059906
+                ],
+                "boneTail": [
+                    0.4449999928474426,
+                    -0.10000009089708328,
+                    1.6550002098083496
+                ],
+                "boneRotation": 3.1415884494781494,
+                "parent": "CRTL_R_Squeeze_parent"
+            },
+            "BoneConstrains": [
+                {
+                    "name": "Limit Location",
+                    "owner_space": "LOCAL",
+                    "use_min_x": true,
+                    "use_min_y": true,
+                    "use_min_z": true,
+                    "use_max_x": true,
+                    "use_max_y": true,
+                    "use_max_z": true,
+                    "min_x": 0.0,
+                    "min_y": 0.0,
+                    "min_z": 0.0,
+                    "max_x": 0.0,
+                    "max_y": 0.0,
+                    "max_z": 0.029999999329447746
+                }
+            ],
+            "CustomShape": "TEVRIG_Circle",
+            "CustomShapeRotation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "CustomShapeLocation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "CustomShapeScale": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "ScaleToBoneLenght": true,
+            "Wireframe": false,
+            "Color": "THEME09"
+        },
+        {
+            "boneName": "CTRL_Jaw_BF_Text.006",
+            "Properties": {
+                "boneHead": [
+                    0.4459996521472931,
+                    1.1606136496311592e-08,
+                    1.6019998788833618
+                ],
+                "boneTail": [
+                    0.44599971175193787,
+                    -8.338281531905523e-08,
+                    1.7059998512268066
+                ],
+                "boneRotation": -2.8868403205706272e-06,
+                "parent": "CRTL_R_Squeeze_parent"
+            },
+            "BoneConstrains": [
+                {
+                    "name": "Limit Location",
+                    "owner_space": "LOCAL",
+                    "use_min_x": true,
+                    "use_min_y": true,
+                    "use_min_z": true,
+                    "use_max_x": true,
+                    "use_max_y": true,
+                    "use_max_z": true,
+                    "min_x": -0.029999999329447746,
+                    "min_y": -0.029999999329447746,
+                    "min_z": -0.029999999329447746,
+                    "max_x": 0.029999999329447746,
+                    "max_y": 0.029999999329447746,
+                    "max_z": 0.029999999329447746
+                }
+            ],
+            "CustomShape": "TEVRIG_Squeeze_r",
+            "CustomShapeRotation": [
+                0.0,
+                4.440892098500626e-16,
+                -4.44089183380283e-16
+            ],
+            "CustomShapeLocation": [
+                0.5199999809265137,
+                -0.8799999952316284,
+                0.0
+            ],
+            "CustomShapeScale": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "ScaleToBoneLenght": true,
+            "Wireframe": true,
+            "Color": "THEME09"
+        },
+        {
+            "boneName": "CTRL_R_Blink_Parent",
+            "Properties": {
+                "boneHead": [
+                    0.47499996423721313,
+                    5.0272923601824004e-08,
+                    1.6400001049041748
+                ],
+                "boneTail": [
+                    0.47499996423721313,
+                    -0.10000018030405045,
+                    1.6400002241134644
+                ],
+                "boneRotation": 3.141587257385254,
+                "parent": "CTRL_JawAndFace"
+            },
+            "BoneConstrains": [],
+            "CustomShape": "TEVRIG_Slider",
+            "CustomShapeRotation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "CustomShapeLocation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "CustomShapeScale": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "ScaleToBoneLenght": true,
+            "Wireframe": false,
+            "Color": "THEME19"
+        },
+        {
+            "boneName": "CTRL_R_Blink",
+            "Properties": {
+                "boneHead": [
+                    0.47499996423721313,
+                    -1.3342960869522358e-07,
+                    1.65500009059906
+                ],
+                "boneTail": [
+                    0.47499996423721313,
+                    -0.10000014305114746,
+                    1.6550002098083496
+                ],
+                "boneRotation": 3.141585111618042,
+                "parent": "CTRL_R_Blink_Parent"
+            },
+            "BoneConstrains": [
+                {
+                    "name": "Limit Location",
+                    "owner_space": "LOCAL",
+                    "use_min_x": true,
+                    "use_min_y": true,
+                    "use_min_z": true,
+                    "use_max_x": true,
+                    "use_max_y": true,
+                    "use_max_z": true,
+                    "min_x": 0.0,
+                    "min_y": 0.0,
+                    "min_z": 0.0,
+                    "max_x": 0.0,
+                    "max_y": 0.0,
+                    "max_z": 0.029999999329447746
+                }
+            ],
+            "CustomShape": "TEVRIG_Circle",
+            "CustomShapeRotation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "CustomShapeLocation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "CustomShapeScale": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "ScaleToBoneLenght": true,
+            "Wireframe": false,
+            "Color": "THEME09"
+        },
+        {
+            "boneName": "CTRL_Jaw_BF_Text.007",
+            "Properties": {
+                "boneHead": [
+                    0.4749996066093445,
+                    -8.86834428115435e-09,
+                    1.6020002365112305
+                ],
+                "boneTail": [
+                    0.47499963641166687,
+                    -1.1899204821474996e-07,
+                    1.6930001974105835
+                ],
+                "boneRotation": -3.125258444924839e-06,
+                "parent": "CTRL_R_Blink_Parent"
+            },
+            "BoneConstrains": [
+                {
+                    "name": "Limit Location",
+                    "owner_space": "LOCAL",
+                    "use_min_x": true,
+                    "use_min_y": true,
+                    "use_min_z": true,
+                    "use_max_x": true,
+                    "use_max_y": true,
+                    "use_max_z": true,
+                    "min_x": -0.029999999329447746,
+                    "min_y": -0.029999999329447746,
+                    "min_z": -0.029999999329447746,
+                    "max_x": 0.029999999329447746,
+                    "max_y": 0.029999999329447746,
+                    "max_z": 0.029999999329447746
+                }
+            ],
+            "CustomShape": "TEVRIG_BlinkR",
+            "CustomShapeRotation": [
+                0.0,
+                4.440892098500626e-16,
+                -4.44089183380283e-16
+            ],
+            "CustomShapeLocation": [
+                0.8199999332427979,
+                -0.8799999952316284,
+                0.0
+            ],
+            "CustomShapeScale": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "ScaleToBoneLenght": true,
+            "Wireframe": true,
+            "Color": "THEME09"
+        },
+        {
+            "boneName": "CRTL_R_UpperEyeLid_Parent",
+            "Properties": {
+                "boneHead": [
+                    0.4100000262260437,
+                    4.606569348197809e-08,
+                    1.6400001049041748
+                ],
+                "boneTail": [
+                    0.4100000262260437,
+                    -0.15000019967556,
+                    1.6400002241134644
+                ],
+                "boneRotation": 3.141587972640991,
+                "parent": "CTRL_JawAndFace"
+            },
+            "BoneConstrains": [],
+            "CustomShape": "TEVRIG_Slider",
+            "CustomShapeRotation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "CustomShapeLocation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "CustomShapeScale": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "ScaleToBoneLenght": true,
+            "Wireframe": false,
+            "Color": "THEME19"
+        },
+        {
+            "boneName": "CRTL_R_UpperEyeLid",
+            "Properties": {
+                "boneHead": [
+                    0.4100000262260437,
+                    -1.7745172442573676e-07,
+                    1.6400001049041748
+                ],
+                "boneTail": [
+                    0.4100000262260437,
+                    -0.10000022500753403,
+                    1.6400002241134644
+                ],
+                "boneRotation": 3.1415889263153076,
+                "parent": "CRTL_R_UpperEyeLid_Parent"
+            },
+            "BoneConstrains": [
+                {
+                    "name": "Limit Location",
+                    "owner_space": "LOCAL",
+                    "use_min_x": true,
+                    "use_min_y": true,
+                    "use_min_z": true,
+                    "use_max_x": true,
+                    "use_max_y": true,
+                    "use_max_z": true,
+                    "min_x": 0.0,
+                    "min_y": 0.0,
+                    "min_z": -0.029999999329447746,
+                    "max_x": 0.0,
+                    "max_y": 0.0,
+                    "max_z": 0.029999999329447746
+                }
+            ],
+            "CustomShape": "TEVRIG_Circle",
+            "CustomShapeRotation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "CustomShapeLocation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "CustomShapeScale": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "ScaleToBoneLenght": true,
+            "Wireframe": false,
+            "Color": "THEME09"
+        },
+        {
+            "boneName": "CTRL_Jaw_BF_Text.005",
+            "Properties": {
+                "boneHead": [
+                    0.4099996089935303,
+                    -2.8862295664566773e-08,
+                    1.5830001831054688
+                ],
+                "boneTail": [
+                    0.40999966859817505,
+                    -1.4946093074286182e-07,
+                    1.7130001783370972
+                ],
+                "boneRotation": -2.886840775317978e-06,
+                "parent": "CRTL_R_UpperEyeLid_Parent"
+            },
+            "BoneConstrains": [
+                {
+                    "name": "Limit Location",
+                    "owner_space": "LOCAL",
+                    "use_min_x": true,
+                    "use_min_y": true,
+                    "use_min_z": true,
+                    "use_max_x": true,
+                    "use_max_y": true,
+                    "use_max_z": true,
+                    "min_x": -0.029999999329447746,
+                    "min_y": -0.029999999329447746,
+                    "min_z": -0.029999999329447746,
+                    "max_x": 0.029999999329447746,
+                    "max_y": 0.029999999329447746,
+                    "max_z": 0.029999999329447746
+                }
+            ],
+            "CustomShape": "TEVRIG_Eyelid_r",
+            "CustomShapeRotation": [
+                0.0,
+                4.440892098500626e-16,
+                -4.44089183380283e-16
+            ],
+            "CustomShapeLocation": [
+                0.23999999463558197,
+                -0.8799999952316284,
+                0.0
+            ],
+            "CustomShapeScale": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "ScaleToBoneLenght": true,
+            "Wireframe": true,
+            "Color": "THEME09"
+        },
+        {
+            "boneName": "CTRL_L_Blink_parent",
+            "Properties": {
+                "boneHead": [
+                    0.47499993443489075,
+                    -8.672732860759425e-07,
+                    1.5200001001358032
+                ],
+                "boneTail": [
+                    0.47499993443489075,
+                    -0.10000023245811462,
+                    1.5200002193450928
+                ],
+                "boneRotation": 3.141585111618042,
+                "parent": "CTRL_JawAndFace"
+            },
+            "BoneConstrains": [],
+            "CustomShape": "TEVRIG_Slider",
+            "CustomShapeRotation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "CustomShapeLocation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "CustomShapeScale": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "ScaleToBoneLenght": true,
+            "Wireframe": false,
+            "Color": "THEME19"
+        },
+        {
+            "boneName": "CTRL_L_Blink",
+            "Properties": {
+                "boneHead": [
+                    0.47499993443489075,
+                    -1.637977788959688e-07,
+                    1.5350000858306885
+                ],
+                "boneTail": [
+                    0.47499993443489075,
+                    -0.10000017285346985,
+                    1.535000205039978
+                ],
+                "boneRotation": 3.141585111618042,
+                "parent": "CTRL_L_Blink_parent"
+            },
+            "BoneConstrains": [
+                {
+                    "name": "Limit Location",
+                    "owner_space": "LOCAL",
+                    "use_min_x": true,
+                    "use_min_y": true,
+                    "use_min_z": true,
+                    "use_max_x": true,
+                    "use_max_y": true,
+                    "use_max_z": true,
+                    "min_x": 0.0,
+                    "min_y": 0.0,
+                    "min_z": 0.0,
+                    "max_x": 0.0,
+                    "max_y": 0.0,
+                    "max_z": 0.029999999329447746
+                }
+            ],
+            "CustomShape": "TEVRIG_Circle",
+            "CustomShapeRotation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "CustomShapeLocation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "CustomShapeScale": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "ScaleToBoneLenght": true,
+            "Wireframe": false,
+            "Color": "THEME09"
+        },
+        {
+            "boneName": "CTRL_Jaw_BF_Text.011",
+            "Properties": {
+                "boneHead": [
+                    0.4749995470046997,
+                    -2.3665393200644758e-08,
+                    1.4780001640319824
+                ],
+                "boneTail": [
+                    0.4749995768070221,
+                    -1.3784887187284767e-07,
+                    1.5690001249313354
+                ],
+                "boneRotation": -3.1252577628038125e-06,
+                "parent": "CTRL_L_Blink_parent"
+            },
+            "BoneConstrains": [
+                {
+                    "name": "Limit Location",
+                    "owner_space": "LOCAL",
+                    "use_min_x": true,
+                    "use_min_y": true,
+                    "use_min_z": true,
+                    "use_max_x": true,
+                    "use_max_y": true,
+                    "use_max_z": true,
+                    "min_x": -0.029999999329447746,
+                    "min_y": -0.029999999329447746,
+                    "min_z": -0.029999999329447746,
+                    "max_x": 0.029999999329447746,
+                    "max_y": 0.029999999329447746,
+                    "max_z": 0.029999999329447746
+                }
+            ],
+            "CustomShape": "TEVRIG_BlinkR",
+            "CustomShapeRotation": [
+                0.0,
+                4.440892098500626e-16,
+                -4.44089183380283e-16
+            ],
+            "CustomShapeLocation": [
+                0.8199999332427979,
+                -0.8799999952316284,
+                0.0
+            ],
+            "CustomShapeScale": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "ScaleToBoneLenght": true,
+            "Wireframe": true,
+            "Color": "THEME09"
+        },
+        {
+            "boneName": "CRTL_L_Squeeze_Parent",
+            "Properties": {
+                "boneHead": [
+                    0.44499996304512024,
+                    -8.692150572642277e-07,
+                    1.5199999809265137
+                ],
+                "boneTail": [
+                    0.44499996304512024,
+                    -0.10000023990869522,
+                    1.5200001001358032
+                ],
+                "boneRotation": 3.1415884494781494,
+                "parent": "CTRL_JawAndFace"
+            },
+            "BoneConstrains": [],
+            "CustomShape": "TEVRIG_Slider",
+            "CustomShapeRotation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "CustomShapeLocation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "CustomShapeScale": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "ScaleToBoneLenght": true,
+            "Wireframe": false,
+            "Color": "THEME19"
+        },
+        {
+            "boneName": "CRTL_L_Squeeze",
+            "Properties": {
+                "boneHead": [
+                    0.44499996304512024,
+                    -1.6629820720481803e-07,
+                    1.5350000858306885
+                ],
+                "boneTail": [
+                    0.44499996304512024,
+                    -0.10000017285346985,
+                    1.535000205039978
+                ],
+                "boneRotation": 3.1415889263153076,
+                "parent": "CRTL_L_Squeeze_Parent"
+            },
+            "BoneConstrains": [
+                {
+                    "name": "Limit Location",
+                    "owner_space": "LOCAL",
+                    "use_min_x": true,
+                    "use_min_y": true,
+                    "use_min_z": true,
+                    "use_max_x": true,
+                    "use_max_y": true,
+                    "use_max_z": true,
+                    "min_x": 0.0,
+                    "min_y": 0.0,
+                    "min_z": 0.0,
+                    "max_x": 0.0,
+                    "max_y": 0.0,
+                    "max_z": 0.029999999329447746
+                }
+            ],
+            "CustomShape": "TEVRIG_Circle",
+            "CustomShapeRotation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "CustomShapeLocation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "CustomShapeScale": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "ScaleToBoneLenght": true,
+            "Wireframe": false,
+            "Color": "THEME09"
+        },
+        {
+            "boneName": "CTRL_Jaw_BF_Text.010",
+            "Properties": {
+                "boneHead": [
+                    0.4449995756149292,
+                    -2.404260612820508e-08,
+                    1.4780001640319824
+                ],
+                "boneTail": [
+                    0.444999635219574,
+                    -1.5628357630248502e-07,
+                    1.5820001363754272
+                ],
+                "boneRotation": -2.8868403205706272e-06,
+                "parent": "CRTL_L_Squeeze_Parent"
+            },
+            "BoneConstrains": [
+                {
+                    "name": "Limit Location",
+                    "owner_space": "LOCAL",
+                    "use_min_x": true,
+                    "use_min_y": true,
+                    "use_min_z": true,
+                    "use_max_x": true,
+                    "use_max_y": true,
+                    "use_max_z": true,
+                    "min_x": -0.029999999329447746,
+                    "min_y": -0.029999999329447746,
+                    "min_z": -0.029999999329447746,
+                    "max_x": 0.029999999329447746,
+                    "max_y": 0.029999999329447746,
+                    "max_z": 0.029999999329447746
+                }
+            ],
+            "CustomShape": "TEVRIG_squeeze",
+            "CustomShapeRotation": [
+                0.0,
+                4.440892098500626e-16,
+                -4.44089183380283e-16
+            ],
+            "CustomShapeLocation": [
+                0.5199999809265137,
+                -1.0499999523162842,
+                0.0
+            ],
+            "CustomShapeScale": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "ScaleToBoneLenght": true,
+            "Wireframe": true,
+            "Color": "THEME09"
+        },
+        {
+            "boneName": "CRTL_L_UpperEyeLid_parent",
+            "Properties": {
+                "boneHead": [
+                    0.4099999964237213,
+                    -9.310850259680592e-07,
+                    1.5200004577636719
+                ],
+                "boneTail": [
+                    0.4099999964237213,
+                    -0.15000019967556,
+                    1.5200005769729614
+                ],
+                "boneRotation": 3.1415891647338867,
+                "parent": "CTRL_JawAndFace"
+            },
+            "BoneConstrains": [],
+            "CustomShape": "TEVRIG_Slider",
+            "CustomShapeRotation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "CustomShapeLocation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "CustomShapeScale": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "ScaleToBoneLenght": true,
+            "Wireframe": false,
+            "Color": "THEME19"
+        },
+        {
+            "boneName": "CRTL_L_UpperEyeLid",
+            "Properties": {
+                "boneHead": [
+                    0.4099999964237213,
+                    -2.009281843129429e-07,
+                    1.5200004577636719
+                ],
+                "boneTail": [
+                    0.4099999964237213,
+                    -0.10000013560056686,
+                    1.5200005769729614
+                ],
+                "boneRotation": 3.1415891647338867,
+                "parent": "CRTL_L_UpperEyeLid_parent"
+            },
+            "BoneConstrains": [
+                {
+                    "name": "Limit Location",
+                    "owner_space": "LOCAL",
+                    "use_min_x": true,
+                    "use_min_y": true,
+                    "use_min_z": true,
+                    "use_max_x": true,
+                    "use_max_y": true,
+                    "use_max_z": true,
+                    "min_x": 0.0,
+                    "min_y": 0.0,
+                    "min_z": -0.029999999329447746,
+                    "max_x": 0.0,
+                    "max_y": 0.0,
+                    "max_z": 0.029999999329447746
+                }
+            ],
+            "CustomShape": "TEVRIG_Circle",
+            "CustomShapeRotation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "CustomShapeLocation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "CustomShapeScale": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "ScaleToBoneLenght": true,
+            "Wireframe": false,
+            "Color": "THEME09"
+        },
+        {
+            "boneName": "CTRL_Jaw_BF_Text.009",
+            "Properties": {
+                "boneHead": [
+                    0.4099995791912079,
+                    -6.844241617898206e-09,
+                    1.4640001058578491
+                ],
+                "boneTail": [
+                    0.40999963879585266,
+                    -1.516062724249423e-07,
+                    1.582300066947937
+                ],
+                "boneRotation": -2.841492914740229e-06,
+                "parent": "CRTL_L_UpperEyeLid_parent"
+            },
+            "BoneConstrains": [
+                {
+                    "name": "Limit Location",
+                    "owner_space": "LOCAL",
+                    "use_min_x": true,
+                    "use_min_y": true,
+                    "use_min_z": true,
+                    "use_max_x": true,
+                    "use_max_y": true,
+                    "use_max_z": true,
+                    "min_x": -0.029999999329447746,
+                    "min_y": -0.029999999329447746,
+                    "min_z": -0.029999999329447746,
+                    "max_x": 0.029999999329447746,
+                    "max_y": 0.029999999329447746,
+                    "max_z": 0.029999999329447746
+                }
+            ],
+            "CustomShape": "TEVRIG_eyelid_l",
+            "CustomShapeRotation": [
+                0.0,
+                4.440892098500626e-16,
+                -4.44089183380283e-16
+            ],
+            "CustomShapeLocation": [
+                0.22999998927116394,
+                -1.0399999618530273,
+                0.0
+            ],
+            "CustomShapeScale": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "ScaleToBoneLenght": true,
+            "Wireframe": true,
+            "Color": "THEME09"
+        },
+        {
+            "boneName": "CRTL_R_EyeBrown_parent",
+            "Properties": {
+                "boneHead": [
+                    0.5999999642372131,
+                    4.6625487470919325e-08,
+                    1.5800000429153442
+                ],
+                "boneTail": [
+                    0.5999999642372131,
+                    -0.16999997198581696,
+                    1.5800001621246338
+                ],
+                "boneRotation": 3.141587734222412,
+                "parent": "CTRL_JawAndFace"
+            },
+            "BoneConstrains": [],
+            "CustomShape": "TEVRIG_R_EyeBrow",
+            "CustomShapeRotation": [
+                1.570796251296997,
+                2.220446049250313e-16,
+                2.220445916901415e-16
+            ],
+            "CustomShapeLocation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "CustomShapeScale": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "ScaleToBoneLenght": true,
+            "Wireframe": false,
+            "Color": "THEME19"
+        },
+        {
+            "boneName": "CRTL_R_EyeBrown",
+            "Properties": {
+                "boneHead": [
+                    0.5999999642372131,
+                    4.6625487470919325e-08,
+                    1.5800000429153442
+                ],
+                "boneTail": [
+                    0.5999999642372131,
+                    -0.09999999403953552,
+                    1.5800001621246338
+                ],
+                "boneRotation": 3.1415886878967285,
+                "parent": "CRTL_R_EyeBrown_parent"
+            },
+            "BoneConstrains": [
+                {
+                    "name": "Limit Location",
+                    "owner_space": "LOCAL",
+                    "use_min_x": true,
+                    "use_min_y": true,
+                    "use_min_z": true,
+                    "use_max_x": true,
+                    "use_max_y": true,
+                    "use_max_z": true,
+                    "min_x": 0.0,
+                    "min_y": 0.0,
+                    "min_z": -0.029999999329447746,
+                    "max_x": 0.029999999329447746,
+                    "max_y": 0.0,
+                    "max_z": 0.029999999329447746
+                }
+            ],
+            "CustomShape": "TEVRIG_Circle",
+            "CustomShapeRotation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "CustomShapeLocation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "CustomShapeScale": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "ScaleToBoneLenght": true,
+            "Wireframe": false,
+            "Color": "THEME09"
+        },
+        {
+            "boneName": "CTRL_Jaw_BF_Text.014",
+            "Properties": {
+                "boneHead": [
+                    0.6199996471405029,
+                    2.2785297204563904e-08,
+                    1.5230002403259277
+                ],
+                "boneTail": [
+                    0.6199997067451477,
+                    -1.219137999441955e-07,
+                    1.6140002012252808
+                ],
+                "boneRotation": -2.8868398658232763e-06,
+                "parent": "CRTL_R_EyeBrown_parent"
+            },
+            "BoneConstrains": [
+                {
+                    "name": "Limit Location",
+                    "owner_space": "LOCAL",
+                    "use_min_x": true,
+                    "use_min_y": true,
+                    "use_min_z": true,
+                    "use_max_x": true,
+                    "use_max_y": true,
+                    "use_max_z": true,
+                    "min_x": -0.029999999329447746,
+                    "min_y": -0.029999999329447746,
+                    "min_z": -0.029999999329447746,
+                    "max_x": 0.029999999329447746,
+                    "max_y": 0.029999999329447746,
+                    "max_z": 0.029999999329447746
+                }
+            ],
+            "CustomShape": "TEVRIG_Right Brow",
+            "CustomShapeRotation": [
+                0.0,
+                4.440892098500626e-16,
+                -4.44089183380283e-16
+            ],
+            "CustomShapeLocation": [
+                1.1299999952316284,
+                -1.0299999713897705,
+                0.0
+            ],
+            "CustomShapeScale": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "ScaleToBoneLenght": true,
+            "Wireframe": true,
+            "Color": "THEME09"
+        },
+        {
+            "boneName": "CRTL_L_EyeBrown_parent",
+            "Properties": {
+                "boneHead": [
+                    0.702321469783783,
+                    5.324945817619664e-08,
+                    1.580005407333374
+                ],
+                "boneTail": [
+                    0.702321469783783,
+                    -0.16999995708465576,
+                    1.5800055265426636
+                ],
+                "boneRotation": 3.141587734222412,
+                "parent": "CTRL_JawAndFace"
+            },
+            "BoneConstrains": [],
+            "CustomShape": "TEVRIG_L_EyeBrow",
+            "CustomShapeRotation": [
+                1.570796251296997,
+                2.220446049250313e-16,
+                2.220445916901415e-16
+            ],
+            "CustomShapeLocation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "CustomShapeScale": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "ScaleToBoneLenght": true,
+            "Wireframe": false,
+            "Color": "THEME20"
+        },
+        {
+            "boneName": "CRTL_L_EyeBrown",
+            "Properties": {
+                "boneHead": [
+                    0.70232093334198,
+                    5.324942264905985e-08,
+                    1.580005407333374
+                ],
+                "boneTail": [
+                    0.70232093334198,
+                    -0.09999995678663254,
+                    1.5800055265426636
+                ],
+                "boneRotation": 3.141587972640991,
+                "parent": "CRTL_L_EyeBrown_parent"
+            },
+            "BoneConstrains": [
+                {
+                    "name": "Limit Location",
+                    "owner_space": "LOCAL",
+                    "use_min_x": true,
+                    "use_min_y": true,
+                    "use_min_z": true,
+                    "use_max_x": true,
+                    "use_max_y": true,
+                    "use_max_z": true,
+                    "min_x": -0.029999999329447746,
+                    "min_y": 0.0,
+                    "min_z": -0.029999999329447746,
+                    "max_x": 0.0,
+                    "max_y": 0.0,
+                    "max_z": 0.029999999329447746
+                }
+            ],
+            "CustomShape": "TEVRIG_Circle",
+            "CustomShapeRotation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "CustomShapeLocation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "CustomShapeScale": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "ScaleToBoneLenght": true,
+            "Wireframe": false,
+            "Color": "THEME09"
+        },
+        {
+            "boneName": "CTRL_Jaw_BF_Text.015",
+            "Properties": {
+                "boneHead": [
+                    0.6889995336532593,
+                    2.8104942373374797e-08,
+                    1.5240002870559692
+                ],
+                "boneTail": [
+                    0.688999593257904,
+                    -1.1684343093065763e-07,
+                    1.6150002479553223
+                ],
+                "boneRotation": -2.8868398658232763e-06,
+                "parent": "CRTL_L_EyeBrown_parent"
+            },
+            "BoneConstrains": [
+                {
+                    "name": "Limit Location",
+                    "owner_space": "LOCAL",
+                    "use_min_x": true,
+                    "use_min_y": true,
+                    "use_min_z": true,
+                    "use_max_x": true,
+                    "use_max_y": true,
+                    "use_max_z": true,
+                    "min_x": -0.029999999329447746,
+                    "min_y": -0.029999999329447746,
+                    "min_z": -0.029999999329447746,
+                    "max_x": 0.029999999329447746,
+                    "max_y": 0.029999999329447746,
+                    "max_z": 0.029999999329447746
+                }
+            ],
+            "CustomShape": "TEVRIG_Left Brow",
+            "CustomShapeRotation": [
+                0.0,
+                4.440892098500626e-16,
+                -4.44089183380283e-16
+            ],
+            "CustomShapeLocation": [
+                1.1200000047683716,
+                -0.8500000238418579,
+                0.0
+            ],
+            "CustomShapeScale": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "ScaleToBoneLenght": true,
+            "Wireframe": true,
+            "Color": "THEME09"
+        },
+        {
+            "boneName": "CTRL_Glabella_parent",
+            "Properties": {
+                "boneHead": [
+                    0.5399999618530273,
+                    4.274188825093006e-08,
+                    1.5800000429153442
+                ],
+                "boneTail": [
+                    0.5399999618530273,
+                    -0.14999999105930328,
+                    1.5800001621246338
+                ],
+                "boneRotation": 3.141585111618042,
+                "parent": "CTRL_JawAndFace"
+            },
+            "BoneConstrains": [],
+            "CustomShape": "TEVRIG_Slider",
+            "CustomShapeRotation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "CustomShapeLocation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "CustomShapeScale": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "ScaleToBoneLenght": true,
+            "Wireframe": false,
+            "Color": "THEME18"
+        },
+        {
+            "boneName": "CTRL_Glabella",
+            "Properties": {
+                "boneHead": [
+                    0.5399999618530273,
+                    2.7840727057082404e-08,
+                    1.5800000429153442
+                ],
+                "boneTail": [
+                    0.5399999618530273,
+                    -0.10000001639127731,
+                    1.5800001621246338
+                ],
+                "boneRotation": 3.141585111618042,
+                "parent": "CTRL_Glabella_parent"
+            },
+            "BoneConstrains": [
+                {
+                    "name": "Limit Location",
+                    "owner_space": "LOCAL",
+                    "use_min_x": true,
+                    "use_min_y": true,
+                    "use_min_z": true,
+                    "use_max_x": true,
+                    "use_max_y": true,
+                    "use_max_z": true,
+                    "min_x": 0.0,
+                    "min_y": 0.0,
+                    "min_z": -0.029999999329447746,
+                    "max_x": 0.0,
+                    "max_y": 0.0,
+                    "max_z": 0.029999999329447746
+                }
+            ],
+            "CustomShape": "TEVRIG_Circle",
+            "CustomShapeRotation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "CustomShapeLocation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "CustomShapeScale": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "ScaleToBoneLenght": true,
+            "Wireframe": false,
+            "Color": "THEME09"
+        },
+        {
+            "boneName": "CTRL_Jaw_BF_Text.013",
+            "Properties": {
+                "boneHead": [
+                    0.5399996638298035,
+                    -1.746206379493742e-08,
+                    1.5230002403259277
+                ],
+                "boneTail": [
+                    0.5399997234344482,
+                    -1.2395030069001223e-07,
+                    1.6140002012252808
+                ],
+                "boneRotation": -2.8868398658232763e-06,
+                "parent": "CTRL_Glabella_parent"
+            },
+            "BoneConstrains": [
+                {
+                    "name": "Limit Location",
+                    "owner_space": "LOCAL",
+                    "use_min_x": true,
+                    "use_min_y": true,
+                    "use_min_z": true,
+                    "use_max_x": true,
+                    "use_max_y": true,
+                    "use_max_z": true,
+                    "min_x": -0.029999999329447746,
+                    "min_y": -0.029999999329447746,
+                    "min_z": -0.029999999329447746,
+                    "max_x": 0.029999999329447746,
+                    "max_y": 0.029999999329447746,
+                    "max_z": 0.029999999329447746
+                }
+            ],
+            "CustomShape": "TEVRIG_Glabella",
+            "CustomShapeRotation": [
+                0.0,
+                4.440892098500626e-16,
+                -4.44089183380283e-16
+            ],
+            "CustomShapeLocation": [
+                1.5099999904632568,
+                -0.8400000333786011,
+                0.0
+            ],
+            "CustomShapeScale": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "ScaleToBoneLenght": true,
+            "Wireframe": true,
+            "Color": "THEME09"
+        },
+        {
+            "boneName": "CRTL_R_Squint_parent",
+            "Properties": {
+                "boneHead": [
+                    0.5049999356269836,
+                    5.221471610639128e-08,
+                    1.6400001049041748
+                ],
+                "boneTail": [
+                    0.5049999356269836,
+                    -0.10000018030405045,
+                    1.6400002241134644
+                ],
+                "boneRotation": 3.1415882110595703,
+                "parent": "CTRL_JawAndFace"
+            },
+            "BoneConstrains": [],
+            "CustomShape": "TEVRIG_Slider",
+            "CustomShapeRotation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "CustomShapeLocation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "CustomShapeScale": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "ScaleToBoneLenght": true,
+            "Wireframe": false,
+            "Color": "THEME19"
+        },
+        {
+            "boneName": "CRTL_R_Squint",
+            "Properties": {
+                "boneHead": [
+                    0.5049999356269836,
+                    -2.718398093293217e-07,
+                    1.6250001192092896
+                ],
+                "boneTail": [
+                    0.5049999356269836,
+                    -0.1000002771615982,
+                    1.625000238418579
+                ],
+                "boneRotation": 3.1415884494781494,
+                "parent": "CRTL_R_Squint_parent"
+            },
+            "BoneConstrains": [
+                {
+                    "name": "Limit Location",
+                    "owner_space": "LOCAL",
+                    "use_min_x": true,
+                    "use_min_y": true,
+                    "use_min_z": true,
+                    "use_max_x": true,
+                    "use_max_y": true,
+                    "use_max_z": true,
+                    "min_x": 0.0,
+                    "min_y": 0.0,
+                    "min_z": -0.029999999329447746,
+                    "max_x": 0.0,
+                    "max_y": 0.0,
+                    "max_z": 0.0
+                }
+            ],
+            "CustomShape": "TEVRIG_Circle",
+            "CustomShapeRotation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "CustomShapeLocation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "CustomShapeScale": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "ScaleToBoneLenght": true,
+            "Wireframe": false,
+            "Color": "THEME09"
+        },
+        {
+            "boneName": "CTRL_Jaw_BF_Text.008",
+            "Properties": {
+                "boneHead": [
+                    0.5049997568130493,
+                    -2.3069306465117734e-09,
+                    1.6020002365112305
+                ],
+                "boneTail": [
+                    0.5049998164176941,
+                    -1.2055177478487167e-07,
+                    1.6930001974105835
+                ],
+                "boneRotation": -2.8868410026916536e-06,
+                "parent": "CRTL_R_Squint_parent"
+            },
+            "BoneConstrains": [
+                {
+                    "name": "Limit Location",
+                    "owner_space": "LOCAL",
+                    "use_min_x": true,
+                    "use_min_y": true,
+                    "use_min_z": true,
+                    "use_max_x": true,
+                    "use_max_y": true,
+                    "use_max_z": true,
+                    "min_x": -0.029999999329447746,
+                    "min_y": -0.029999999329447746,
+                    "min_z": -0.029999999329447746,
+                    "max_x": 0.029999999329447746,
+                    "max_y": 0.029999999329447746,
+                    "max_z": 0.029999999329447746
+                }
+            ],
+            "CustomShape": "TEVRIG_Squint R",
+            "CustomShapeRotation": [
+                0.0,
+                4.440892098500626e-16,
+                -4.44089183380283e-16
+            ],
+            "CustomShapeLocation": [
+                0.5199999809265137,
+                -1.3799999952316284,
+                0.0
+            ],
+            "CustomShapeScale": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "ScaleToBoneLenght": true,
+            "Wireframe": true,
+            "Color": "THEME09"
+        },
+        {
+            "boneName": "CRTL_L_Squint_parent",
+            "Properties": {
+                "boneHead": [
+                    0.505000114440918,
+                    -6.865175237180665e-07,
+                    1.5199999809265137
+                ],
+                "boneTail": [
+                    0.505000114440918,
+                    -0.10000023245811462,
+                    1.5200001001358032
+                ],
+                "boneRotation": 3.1415884494781494,
+                "parent": "CTRL_JawAndFace"
+            },
+            "BoneConstrains": [],
+            "CustomShape": "TEVRIG_Slider",
+            "CustomShapeRotation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "CustomShapeLocation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "CustomShapeScale": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "ScaleToBoneLenght": true,
+            "Wireframe": false,
+            "Color": "THEME19"
+        },
+        {
+            "boneName": "CRTL_L_Squint",
+            "Properties": {
+                "boneHead": [
+                    0.505000114440918,
+                    -3.1710925441075233e-07,
+                    1.505000114440918
+                ],
+                "boneTail": [
+                    0.505000114440918,
+                    -0.10000032931566238,
+                    1.5050002336502075
+                ],
+                "boneRotation": 3.1415889263153076,
+                "parent": "CRTL_L_Squint_parent"
+            },
+            "BoneConstrains": [
+                {
+                    "name": "Limit Location",
+                    "owner_space": "LOCAL",
+                    "use_min_x": true,
+                    "use_min_y": true,
+                    "use_min_z": true,
+                    "use_max_x": true,
+                    "use_max_y": true,
+                    "use_max_z": true,
+                    "min_x": 0.0,
+                    "min_y": 0.0,
+                    "min_z": -0.029999999329447746,
+                    "max_x": 0.0,
+                    "max_y": 0.0,
+                    "max_z": 0.0
+                }
+            ],
+            "CustomShape": "TEVRIG_Circle",
+            "CustomShapeRotation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "CustomShapeLocation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "CustomShapeScale": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "ScaleToBoneLenght": true,
+            "Wireframe": false,
+            "Color": "THEME09"
+        },
+        {
+            "boneName": "CTRL_Jaw_BF_Text.012",
+            "Properties": {
+                "boneHead": [
+                    0.5049998760223389,
+                    -2.9174088922445662e-08,
+                    1.4780000448226929
+                ],
+                "boneTail": [
+                    0.5049999356269836,
+                    -1.3590715752798133e-07,
+                    1.569000005722046
+                ],
+                "boneRotation": -2.8868405479443027e-06,
+                "parent": "CRTL_L_Squint_parent"
+            },
+            "BoneConstrains": [
+                {
+                    "name": "Limit Location",
+                    "owner_space": "LOCAL",
+                    "use_min_x": true,
+                    "use_min_y": true,
+                    "use_min_z": true,
+                    "use_max_x": true,
+                    "use_max_y": true,
+                    "use_max_z": true,
+                    "min_x": -0.029999999329447746,
+                    "min_y": -0.029999999329447746,
+                    "min_z": -0.029999999329447746,
+                    "max_x": 0.029999999329447746,
+                    "max_y": 0.029999999329447746,
+                    "max_z": 0.029999999329447746
+                }
+            ],
+            "CustomShape": "TEVRIG_Squint L",
+            "CustomShapeRotation": [
+                0.0,
+                4.440892098500626e-16,
+                -4.44089183380283e-16
+            ],
+            "CustomShapeLocation": [
+                0.5199999809265137,
+                -1.5800000429153442,
+                0.0
+            ],
+            "CustomShapeScale": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "ScaleToBoneLenght": true,
+            "Wireframe": true,
+            "Color": "THEME09"
+        },
+        {
+            "boneName": "CTRL_Lips_Parent",
+            "Properties": {
+                "boneHead": [
+                    0.4699998199939728,
+                    1.2925234216254466e-09,
+                    1.3050001859664917
+                ],
+                "boneTail": [
+                    0.4699997901916504,
+                    -0.7000000476837158,
+                    1.3050003051757812
+                ],
+                "boneRotation": 3.141587972640991,
+                "parent": "CTRL_FaceRig"
+            },
+            "BoneConstrains": [],
+            "CustomShape": "Plane.002",
+            "CustomShapeRotation": [
+                1.570796251296997,
+                2.220446049250313e-16,
+                2.220445916901415e-16
+            ],
+            "CustomShapeLocation": [
+                0.9150000810623169,
+                0.004999995697289705,
+                1.5600000619888306
+            ],
+            "CustomShapeScale": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "ScaleToBoneLenght": false,
+            "Wireframe": false,
+            "Color": "THEME19"
+        },
+        {
+            "boneName": "CTRL_Eye_Look_parent",
+            "Properties": {
+                "boneHead": [
+                    0.6499998569488525,
+                    -7.653987665889872e-08,
+                    1.3550001382827759
+                ],
+                "boneTail": [
+                    0.6499998569488525,
+                    -0.1400001347064972,
+                    1.3550002574920654
+                ],
+                "boneRotation": 3.141585111618042,
+                "parent": "CTRL_Lips_Parent"
+            },
+            "BoneConstrains": [],
+            "CustomShape": "TEVRIG_Area",
+            "CustomShapeRotation": [
+                1.570796251296997,
+                2.220446049250313e-16,
+                2.220445916901415e-16
+            ],
+            "CustomShapeLocation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "CustomShapeScale": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "ScaleToBoneLenght": true,
+            "Wireframe": false,
+            "Color": "THEME19"
+        },
+        {
+            "boneName": "CTRL_Jaw_BF_Text.019",
+            "Properties": {
+                "boneHead": [
+                    0.6499996185302734,
+                    -1.350735630012423e-07,
+                    1.3040002584457397
+                ],
+                "boneTail": [
+                    0.6499996185302734,
+                    -2.509340788492409e-07,
+                    1.3950002193450928
+                ],
+                "boneRotation": -3.5292209759063553e-06,
+                "parent": "CTRL_Eye_Look_parent"
+            },
+            "BoneConstrains": [
+                {
+                    "name": "Limit Location",
+                    "owner_space": "LOCAL",
+                    "use_min_x": true,
+                    "use_min_y": true,
+                    "use_min_z": true,
+                    "use_max_x": true,
+                    "use_max_y": true,
+                    "use_max_z": true,
+                    "min_x": -0.029999999329447746,
+                    "min_y": -0.029999999329447746,
+                    "min_z": -0.029999999329447746,
+                    "max_x": 0.029999999329447746,
+                    "max_y": 0.029999999329447746,
+                    "max_z": 0.029999999329447746
+                }
+            ],
+            "CustomShape": "TEVRIG_EyeLook",
+            "CustomShapeRotation": [
+                0.0,
+                4.440892098500626e-16,
+                -4.44089183380283e-16
+            ],
+            "CustomShapeLocation": [
+                1.4800000190734863,
+                -0.440000057220459,
+                0.0
+            ],
+            "CustomShapeScale": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "ScaleToBoneLenght": true,
+            "Wireframe": true,
+            "Color": "THEME09"
+        },
+        {
+            "boneName": "CTRL_Eye_Look",
+            "Properties": {
+                "boneHead": [
+                    0.6499998569488525,
+                    -2.851567728612281e-07,
+                    1.3549994230270386
+                ],
+                "boneTail": [
+                    0.6499998569488525,
+                    -0.1000000536441803,
+                    1.3549995422363281
+                ],
+                "boneRotation": 3.141585111618042,
+                "parent": "CTRL_Eye_Look_parent"
+            },
+            "BoneConstrains": [
+                {
+                    "name": "Limit Location",
+                    "owner_space": "LOCAL",
+                    "use_min_x": true,
+                    "use_min_y": true,
+                    "use_min_z": true,
+                    "use_max_x": true,
+                    "use_max_y": true,
+                    "use_max_z": true,
+                    "min_x": -0.029999999329447746,
+                    "min_y": 0.0,
+                    "min_z": -0.029999999329447746,
+                    "max_x": 0.029999999329447746,
+                    "max_y": 0.0,
+                    "max_z": 0.029999999329447746
+                }
+            ],
+            "CustomShape": "TEVRIG_Circle",
+            "CustomShapeRotation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "CustomShapeLocation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "CustomShapeScale": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "ScaleToBoneLenght": true,
+            "Wireframe": false,
+            "Color": "THEME09"
+        },
+        {
+            "boneName": "CTRL_L_Corner_Lip",
+            "Properties": {
+                "boneHead": [
+                    0.559999942779541,
+                    -5.481277298713394e-08,
+                    1.2250001430511475
+                ],
+                "boneTail": [
+                    0.559999942779541,
+                    -0.08000010251998901,
+                    1.225000262260437
+                ],
+                "boneRotation": 3.1415860652923584,
+                "parent": "CTRL_Lips_Parent"
+            },
+            "BoneConstrains": [
+                {
+                    "name": "Limit Location",
+                    "owner_space": "LOCAL",
+                    "use_min_x": true,
+                    "use_min_y": true,
+                    "use_min_z": true,
+                    "use_max_x": true,
+                    "use_max_y": true,
+                    "use_max_z": true,
+                    "min_x": -0.029999999329447746,
+                    "min_y": 0.0,
+                    "min_z": 0.0,
+                    "max_x": 0.029999999329447746,
+                    "max_y": 0.0,
+                    "max_z": 0.0
+                }
+            ],
+            "CustomShape": "TEVRIG_Circle",
+            "CustomShapeRotation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "CustomShapeLocation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "CustomShapeScale": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "ScaleToBoneLenght": true,
+            "Wireframe": false,
+            "Color": "THEME09"
+        },
+        {
+            "boneName": "CTRL_phoneme_parent",
+            "Properties": {
+                "boneHead": [
+                    0.5299997925758362,
+                    -3.9062953760549135e-08,
+                    1.3550002574920654
+                ],
+                "boneTail": [
+                    0.5299997925758362,
+                    -0.1400001049041748,
+                    1.355000376701355
+                ],
+                "boneRotation": 3.141584634780884,
+                "parent": "CTRL_Lips_Parent"
+            },
+            "BoneConstrains": [],
+            "CustomShape": "TEVRIG_Area",
+            "CustomShapeRotation": [
+                1.570796251296997,
+                2.220446049250313e-16,
+                2.220445916901415e-16
+            ],
+            "CustomShapeLocation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "CustomShapeScale": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "ScaleToBoneLenght": true,
+            "Wireframe": false,
+            "Color": "THEME18"
+        },
+        {
+            "boneName": "CTRL_Jaw_BF_Text.018",
+            "Properties": {
+                "boneHead": [
+                    0.5299994945526123,
+                    -1.1249792208900544e-07,
+                    1.3040002584457397
+                ],
+                "boneTail": [
+                    0.5299994349479675,
+                    -2.2835845925328613e-07,
+                    1.3950002193450928
+                ],
+                "boneRotation": -4.123960934521165e-06,
+                "parent": "CTRL_phoneme_parent"
+            },
+            "BoneConstrains": [
+                {
+                    "name": "Limit Location",
+                    "owner_space": "LOCAL",
+                    "use_min_x": true,
+                    "use_min_y": true,
+                    "use_min_z": true,
+                    "use_max_x": true,
+                    "use_max_y": true,
+                    "use_max_z": true,
+                    "min_x": -0.029999999329447746,
+                    "min_y": -0.029999999329447746,
+                    "min_z": -0.029999999329447746,
+                    "max_x": 0.029999999329447746,
+                    "max_y": 0.029999999329447746,
+                    "max_z": 0.029999999329447746
+                }
+            ],
+            "CustomShape": "TEVRIG_MBP",
+            "CustomShapeRotation": [
+                0.0,
+                4.440892098500626e-16,
+                -4.44089183380283e-16
+            ],
+            "CustomShapeLocation": [
+                1.1100000143051147,
+                -0.440000057220459,
+                0.0
+            ],
+            "CustomShapeScale": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "ScaleToBoneLenght": true,
+            "Wireframe": true,
+            "Color": "THEME09"
+        },
+        {
+            "boneName": "CTRL_Jaw_BF_Text.020",
+            "Properties": {
+                "boneHead": [
+                    0.5839996337890625,
+                    -1.1793100185286676e-07,
+                    1.354000210762024
+                ],
+                "boneTail": [
+                    0.5839996337890625,
+                    -2.3379152480629273e-07,
+                    1.445000171661377
+                ],
+                "boneRotation": -3.4689642234297935e-06,
+                "parent": "CTRL_phoneme_parent"
+            },
+            "BoneConstrains": [],
+            "CustomShape": "TEVRIG_CH",
+            "CustomShapeRotation": [
+                0.0,
+                4.440892098500626e-16,
+                -4.44089183380283e-16
+            ],
+            "CustomShapeLocation": [
+                1.2699999809265137,
+                -0.5600000619888306,
+                0.0
+            ],
+            "CustomShapeScale": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "ScaleToBoneLenght": true,
+            "Wireframe": true,
+            "Color": "THEME09"
+        },
+        {
+            "boneName": "CTRL_Jaw_BF_Text.021",
+            "Properties": {
+                "boneHead": [
+                    0.5299996137619019,
+                    -1.1635054875114292e-07,
+                    1.4040002822875977
+                ],
+                "boneTail": [
+                    0.5299995541572571,
+                    -2.3221107880999625e-07,
+                    1.4950002431869507
+                ],
+                "boneRotation": -4.1239618440158665e-06,
+                "parent": "CTRL_phoneme_parent"
+            },
+            "BoneConstrains": [],
+            "CustomShape": "TEVRIG_FV",
+            "CustomShapeRotation": [
+                0.0,
+                4.440892098500626e-16,
+                -4.44089183380283e-16
+            ],
+            "CustomShapeLocation": [
+                1.2799999713897705,
+                -0.440000057220459,
+                0.0
+            ],
+            "CustomShapeScale": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "ScaleToBoneLenght": true,
+            "Wireframe": true,
+            "Color": "THEME09"
+        },
+        {
+            "boneName": "CTRL_Jaw_BF_Text.022",
+            "Properties": {
+                "boneHead": [
+                    0.473999559879303,
+                    -1.1133981558941741e-07,
+                    1.354000210762024
+                ],
+                "boneTail": [
+                    0.47399961948394775,
+                    -2.2720033143741603e-07,
+                    1.445000171661377
+                ],
+                "boneRotation": -2.753708031377755e-06,
+                "parent": "CTRL_phoneme_parent"
+            },
+            "BoneConstrains": [],
+            "CustomShape": "TEVRIG_OO",
+            "CustomShapeRotation": [
+                0.0,
+                4.440892098500626e-16,
+                -4.44089183380283e-16
+            ],
+            "CustomShapeLocation": [
+                1.1100000143051147,
+                -0.5400000810623169,
+                0.0
+            ],
+            "CustomShapeScale": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "ScaleToBoneLenght": true,
+            "Wireframe": true,
+            "Color": "THEME09"
+        },
+        {
+            "boneName": "CTRL_phoneme",
+            "Properties": {
+                "boneHead": [
+                    0.5299986600875854,
+                    -6.88655177327746e-08,
+                    1.3550002574920654
+                ],
+                "boneTail": [
+                    0.5299986600875854,
+                    -0.11000009626150131,
+                    1.355000376701355
+                ],
+                "boneRotation": 3.1415858268737793,
+                "parent": "CTRL_phoneme_parent"
+            },
+            "BoneConstrains": [
+                {
+                    "name": "Limit Location",
+                    "owner_space": "LOCAL",
+                    "use_min_x": true,
+                    "use_min_y": true,
+                    "use_min_z": true,
+                    "use_max_x": true,
+                    "use_max_y": true,
+                    "use_max_z": true,
+                    "min_x": -0.029999999329447746,
+                    "min_y": 0.0,
+                    "min_z": -0.029999999329447746,
+                    "max_x": 0.029999999329447746,
+                    "max_y": 0.0,
+                    "max_z": 0.029999999329447746
+                }
+            ],
+            "CustomShape": "TEVRIG_Circle",
+            "CustomShapeRotation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "CustomShapeLocation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "CustomShapeScale": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "ScaleToBoneLenght": true,
+            "Wireframe": false,
+            "Color": "THEME09"
+        },
+        {
+            "boneName": "CTRL_Lips_main",
+            "Properties": {
+                "boneHead": [
+                    0.5199998617172241,
+                    -6.218871817509353e-08,
+                    1.2250001430511475
+                ],
+                "boneTail": [
+                    0.5199998617172241,
+                    -0.08000005036592484,
+                    1.225000262260437
+                ],
+                "boneRotation": 3.1415860652923584,
+                "parent": "CTRL_Lips_Parent"
+            },
+            "BoneConstrains": [
+                {
+                    "name": "Limit Location",
+                    "owner_space": "LOCAL",
+                    "use_min_x": true,
+                    "use_min_y": true,
+                    "use_min_z": true,
+                    "use_max_x": true,
+                    "use_max_y": true,
+                    "use_max_z": true,
+                    "min_x": 0.0,
+                    "min_y": 0.0,
+                    "min_z": 0.0,
+                    "max_x": 0.0,
+                    "max_y": 0.0,
+                    "max_z": 0.0
+                }
+            ],
+            "CustomShape": "TEVRIG_Circle",
+            "CustomShapeRotation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "CustomShapeLocation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "CustomShapeScale": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "ScaleToBoneLenght": true,
+            "Wireframe": true,
+            "Color": "DEFAULT"
+        },
+        {
+            "boneName": "CTRL_R_Upper_Lip",
+            "Properties": {
+                "boneHead": [
+                    0.49999988079071045,
+                    -9.613014384513008e-08,
+                    1.2450002431869507
+                ],
+                "boneTail": [
+                    0.49999988079071045,
+                    -0.08000010997056961,
+                    1.2450003623962402
+                ],
+                "boneRotation": 3.141587257385254,
+                "parent": "CTRL_Lips_main"
+            },
+            "BoneConstrains": [
+                {
+                    "name": "Limit Location",
+                    "owner_space": "LOCAL",
+                    "use_min_x": true,
+                    "use_min_y": true,
+                    "use_min_z": true,
+                    "use_max_x": true,
+                    "use_max_y": true,
+                    "use_max_z": true,
+                    "min_x": 0.0,
+                    "min_y": 0.0,
+                    "min_z": -0.029999999329447746,
+                    "max_x": 0.0,
+                    "max_y": 0.0,
+                    "max_z": 0.029999999329447746
+                }
+            ],
+            "CustomShape": "TEVRIG_Circle",
+            "CustomShapeRotation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "CustomShapeLocation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "CustomShapeScale": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "ScaleToBoneLenght": true,
+            "Wireframe": false,
+            "Color": "THEME09"
+        },
+        {
+            "boneName": "CTRL_R_Lower_Lip",
+            "Properties": {
+                "boneHead": [
+                    0.49999988079071045,
+                    -1.0267851280332252e-07,
+                    1.2050001621246338
+                ],
+                "boneTail": [
+                    0.49999988079071045,
+                    -0.0800001248717308,
+                    1.2050002813339233
+                ],
+                "boneRotation": 3.141587018966675,
+                "parent": "CTRL_Lips_main"
+            },
+            "BoneConstrains": [
+                {
+                    "name": "Limit Location",
+                    "owner_space": "LOCAL",
+                    "use_min_x": true,
+                    "use_min_y": true,
+                    "use_min_z": true,
+                    "use_max_x": true,
+                    "use_max_y": true,
+                    "use_max_z": true,
+                    "min_x": 0.0,
+                    "min_y": 0.0,
+                    "min_z": -0.029999999329447746,
+                    "max_x": 0.0,
+                    "max_y": 0.0,
+                    "max_z": 0.029999999329447746
+                }
+            ],
+            "CustomShape": "TEVRIG_Circle",
+            "CustomShapeRotation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "CustomShapeLocation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "CustomShapeScale": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "ScaleToBoneLenght": true,
+            "Wireframe": false,
+            "Color": "THEME09"
+        },
+        {
+            "boneName": "CTRL_R_Corner_Lip",
+            "Properties": {
+                "boneHead": [
+                    0.4799988269805908,
+                    -9.19166396329274e-08,
+                    1.225000262260437
+                ],
+                "boneTail": [
+                    0.4799988269805908,
+                    -0.08000010997056961,
+                    1.2250003814697266
+                ],
+                "boneRotation": 3.1415867805480957,
+                "parent": "CTRL_Lips_main"
+            },
+            "BoneConstrains": [
+                {
+                    "name": "Limit Location",
+                    "owner_space": "LOCAL",
+                    "use_min_x": true,
+                    "use_min_y": true,
+                    "use_min_z": true,
+                    "use_max_x": true,
+                    "use_max_y": true,
+                    "use_max_z": true,
+                    "min_x": -0.029999999329447746,
+                    "min_y": 0.0,
+                    "min_z": 0.0,
+                    "max_x": 0.029999999329447746,
+                    "max_y": 0.0,
+                    "max_z": 0.0
+                }
+            ],
+            "CustomShape": "TEVRIG_Circle",
+            "CustomShapeRotation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "CustomShapeLocation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "CustomShapeScale": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "ScaleToBoneLenght": true,
+            "Wireframe": false,
+            "Color": "THEME09"
+        },
+        {
+            "boneName": "CTRL_L_Upper_Lip",
+            "Properties": {
+                "boneHead": [
+                    0.5399999618530273,
+                    -8.875397128349505e-08,
+                    1.2450002431869507
+                ],
+                "boneTail": [
+                    0.5399999618530273,
+                    -0.08000010997056961,
+                    1.2450003623962402
+                ],
+                "boneRotation": 3.141587257385254,
+                "parent": "CTRL_Lips_main"
+            },
+            "BoneConstrains": [
+                {
+                    "name": "Limit Location",
+                    "owner_space": "LOCAL",
+                    "use_min_x": true,
+                    "use_min_y": true,
+                    "use_min_z": true,
+                    "use_max_x": true,
+                    "use_max_y": true,
+                    "use_max_z": true,
+                    "min_x": 0.0,
+                    "min_y": 0.0,
+                    "min_z": -0.029999999329447746,
+                    "max_x": 0.0,
+                    "max_y": 0.0,
+                    "max_z": 0.029999999329447746
+                }
+            ],
+            "CustomShape": "TEVRIG_Circle",
+            "CustomShapeRotation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "CustomShapeLocation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "CustomShapeScale": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "ScaleToBoneLenght": true,
+            "Wireframe": false,
+            "Color": "THEME09"
+        },
+        {
+            "boneName": "CTRL_L_Lower_Lip",
+            "Properties": {
+                "boneHead": [
+                    0.5399999618530273,
+                    -9.530234024168749e-08,
+                    1.2050001621246338
+                ],
+                "boneTail": [
+                    0.5399999618530273,
+                    -0.0800001248717308,
+                    1.2050002813339233
+                ],
+                "boneRotation": 3.1415867805480957,
+                "parent": "CTRL_Lips_main"
+            },
+            "BoneConstrains": [
+                {
+                    "name": "Limit Location",
+                    "owner_space": "LOCAL",
+                    "use_min_x": true,
+                    "use_min_y": true,
+                    "use_min_z": true,
+                    "use_max_x": true,
+                    "use_max_y": true,
+                    "use_max_z": true,
+                    "min_x": 0.0,
+                    "min_y": 0.0,
+                    "min_z": -0.029999999329447746,
+                    "max_x": 0.0,
+                    "max_y": 0.0,
+                    "max_z": 0.029999999329447746
+                }
+            ],
+            "CustomShape": "TEVRIG_Circle",
+            "CustomShapeRotation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "CustomShapeLocation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "CustomShapeScale": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "ScaleToBoneLenght": true,
+            "Wireframe": false,
+            "Color": "THEME09"
+        },
+        {
+            "boneName": "CTRL_L_Smile",
+            "Properties": {
+                "boneHead": [
+                    0.5799999237060547,
+                    -8.83773836335422e-08,
+                    1.2250001430511475
+                ],
+                "boneTail": [
+                    0.5799999237060547,
+                    -0.08000010997056961,
+                    1.225000262260437
+                ],
+                "boneRotation": 3.141587495803833,
+                "parent": "CTRL_Lips_main"
+            },
+            "BoneConstrains": [
+                {
+                    "name": "Limit Location",
+                    "owner_space": "LOCAL",
+                    "use_min_x": true,
+                    "use_min_y": true,
+                    "use_min_z": true,
+                    "use_max_x": true,
+                    "use_max_y": true,
+                    "use_max_z": true,
+                    "min_x": 0.0,
+                    "min_y": 0.0,
+                    "min_z": -0.029999999329447746,
+                    "max_x": 0.0,
+                    "max_y": 0.0,
+                    "max_z": 0.029999999329447746
+                }
+            ],
+            "CustomShape": "TEVRIG_Circle",
+            "CustomShapeRotation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "CustomShapeLocation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "CustomShapeScale": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "ScaleToBoneLenght": true,
+            "Wireframe": false,
+            "Color": "THEME09"
+        },
+        {
+            "boneName": "CTRL_R_Smile",
+            "Properties": {
+                "boneHead": [
+                    0.4599999785423279,
+                    -1.0305525677267724e-07,
+                    1.2250001430511475
+                ],
+                "boneTail": [
+                    0.4599999785423279,
+                    -0.0800001248717308,
+                    1.225000262260437
+                ],
+                "boneRotation": 3.141587257385254,
+                "parent": "CTRL_Lips_main"
+            },
+            "BoneConstrains": [
+                {
+                    "name": "Limit Location",
+                    "owner_space": "LOCAL",
+                    "use_min_x": true,
+                    "use_min_y": true,
+                    "use_min_z": true,
+                    "use_max_x": true,
+                    "use_max_y": true,
+                    "use_max_z": true,
+                    "min_x": 0.0,
+                    "min_y": 0.0,
+                    "min_z": -0.029999999329447746,
+                    "max_x": 0.0,
+                    "max_y": 0.0,
+                    "max_z": 0.029999999329447746
+                }
+            ],
+            "CustomShape": "TEVRIG_Circle",
+            "CustomShapeRotation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "CustomShapeLocation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "CustomShapeScale": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "ScaleToBoneLenght": true,
+            "Wireframe": false,
+            "Color": "THEME09"
+        },
+        {
+            "boneName": "CTRL_Mouth_Control",
+            "Properties": {
+                "boneHead": [
+                    0.5199998617172241,
+                    -9.199122530390014e-08,
+                    1.225000023841858
+                ],
+                "boneTail": [
+                    0.5199998617172241,
+                    -0.08000004291534424,
+                    1.2250001430511475
+                ],
+                "boneRotation": 3.1415860652923584,
+                "parent": "CTRL_Lips_main"
+            },
+            "BoneConstrains": [
+                {
+                    "name": "Limit Location",
+                    "owner_space": "LOCAL",
+                    "use_min_x": true,
+                    "use_min_y": true,
+                    "use_min_z": true,
+                    "use_max_x": true,
+                    "use_max_y": true,
+                    "use_max_z": true,
+                    "min_x": 0.0,
+                    "min_y": 0.0,
+                    "min_z": -0.029999999329447746,
+                    "max_x": 0.0,
+                    "max_y": 0.0,
+                    "max_z": 0.029999999329447746
+                }
+            ],
+            "CustomShape": "TEVRIG_Circle",
+            "CustomShapeRotation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "CustomShapeLocation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "CustomShapeScale": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "ScaleToBoneLenght": true,
+            "Wireframe": false,
+            "Color": "THEME09"
+        },
+        {
+            "boneName": "CTRL_tongue_UD_parent",
+            "Properties": {
+                "boneHead": [
+                    0.3699997663497925,
+                    -6.856660661469505e-08,
+                    1.3550002574920654
+                ],
+                "boneTail": [
+                    0.3699997663497925,
+                    -0.1700001060962677,
+                    1.355000376701355
+                ],
+                "boneRotation": 3.141584634780884,
+                "parent": "CTRL_Lips_Parent"
+            },
+            "BoneConstrains": [],
+            "CustomShape": "TEVRIG_Slider",
+            "CustomShapeRotation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "CustomShapeLocation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "CustomShapeScale": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "ScaleToBoneLenght": true,
+            "Wireframe": false,
+            "Color": "THEME20"
+        },
+        {
+            "boneName": "CTRL_Jaw_BF_Text.016",
+            "Properties": {
+                "boneHead": [
+                    0.3699994683265686,
+                    -1.4177321361330542e-07,
+                    1.294000267982483
+                ],
+                "boneTail": [
+                    0.36999958753585815,
+                    -2.5583679530427617e-07,
+                    1.385000228881836
+                ],
+                "boneRotation": -2.1589685275102966e-06,
+                "parent": "CTRL_tongue_UD_parent"
+            },
+            "BoneConstrains": [
+                {
+                    "name": "Limit Location",
+                    "owner_space": "LOCAL",
+                    "use_min_x": true,
+                    "use_min_y": true,
+                    "use_min_z": true,
+                    "use_max_x": true,
+                    "use_max_y": true,
+                    "use_max_z": true,
+                    "min_x": -0.029999999329447746,
+                    "min_y": -0.029999999329447746,
+                    "min_z": -0.029999999329447746,
+                    "max_x": 0.029999999329447746,
+                    "max_y": 0.029999999329447746,
+                    "max_z": 0.029999999329447746
+                }
+            ],
+            "CustomShape": "TEVRIG_UD tongue",
+            "CustomShapeRotation": [
+                0.0,
+                4.440892098500626e-16,
+                -4.44089183380283e-16
+            ],
+            "CustomShapeLocation": [
+                1.1200000047683716,
+                -0.6500000357627869,
+                0.0
+            ],
+            "CustomShapeScale": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "ScaleToBoneLenght": true,
+            "Wireframe": true,
+            "Color": "THEME09"
+        },
+        {
+            "boneName": "CTRL_tongue_UD",
+            "Properties": {
+                "boneHead": [
+                    0.3699997663497925,
+                    -8.34677678085427e-08,
+                    1.3550002574920654
+                ],
+                "boneTail": [
+                    0.3699997663497925,
+                    -0.11000006645917892,
+                    1.355000376701355
+                ],
+                "boneRotation": 3.1415858268737793,
+                "parent": "CTRL_tongue_UD_parent"
+            },
+            "BoneConstrains": [
+                {
+                    "name": "Limit Location",
+                    "owner_space": "LOCAL",
+                    "use_min_x": true,
+                    "use_min_y": true,
+                    "use_min_z": true,
+                    "use_max_x": true,
+                    "use_max_y": true,
+                    "use_max_z": true,
+                    "min_x": 0.0,
+                    "min_y": 0.0,
+                    "min_z": -0.029999999329447746,
+                    "max_x": 0.0,
+                    "max_y": 0.0,
+                    "max_z": 0.029999999329447746
+                }
+            ],
+            "CustomShape": "TEVRIG_Circle",
+            "CustomShapeRotation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "CustomShapeLocation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "CustomShapeScale": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "ScaleToBoneLenght": true,
+            "Wireframe": false,
+            "Color": "THEME09"
+        },
+        {
+            "boneName": "CTRL_tongue_BF_parent",
+            "Properties": {
+                "boneHead": [
+                    0.41999977827072144,
+                    -5.934671420959603e-08,
+                    1.3550002574920654
+                ],
+                "boneTail": [
+                    0.41999977827072144,
+                    -0.1700000911951065,
+                    1.355000376701355
+                ],
+                "boneRotation": -3.1415905952453613,
+                "parent": "CTRL_Lips_Parent"
+            },
+            "BoneConstrains": [],
+            "CustomShape": "TEVRIG_Slider",
+            "CustomShapeRotation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "CustomShapeLocation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "CustomShapeScale": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "ScaleToBoneLenght": true,
+            "Wireframe": false,
+            "Color": "THEME20"
+        },
+        {
+            "boneName": "CTRL_Jaw_BF_Text.017",
+            "Properties": {
+                "boneHead": [
+                    0.4199995994567871,
+                    -1.1631529162059451e-07,
+                    1.294000267982483
+                ],
+                "boneTail": [
+                    0.4199995994567871,
+                    -2.472741584824689e-07,
+                    1.385000228881836
+                ],
+                "boneRotation": -3.4689653602981707e-06,
+                "parent": "CTRL_tongue_BF_parent"
+            },
+            "BoneConstrains": [
+                {
+                    "name": "Limit Location",
+                    "owner_space": "LOCAL",
+                    "use_min_x": true,
+                    "use_min_y": true,
+                    "use_min_z": true,
+                    "use_max_x": true,
+                    "use_max_y": true,
+                    "use_max_z": true,
+                    "min_x": -0.029999999329447746,
+                    "min_y": -0.029999999329447746,
+                    "min_z": -0.029999999329447746,
+                    "max_x": 0.029999999329447746,
+                    "max_y": 0.029999999329447746,
+                    "max_z": 0.029999999329447746
+                }
+            ],
+            "CustomShape": "TEVRIG_BF Tongue",
+            "CustomShapeRotation": [
+                0.0,
+                4.440892098500626e-16,
+                -4.44089183380283e-16
+            ],
+            "CustomShapeLocation": [
+                1.5199999809265137,
+                -0.6500000357627869,
+                0.0
+            ],
+            "CustomShapeScale": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "ScaleToBoneLenght": true,
+            "Wireframe": true,
+            "Color": "THEME09"
+        },
+        {
+            "boneName": "CTRL_tongue_BF",
+            "Properties": {
+                "boneHead": [
+                    0.41999977827072144,
+                    -7.424787895615736e-08,
+                    1.3550002574920654
+                ],
+                "boneTail": [
+                    0.41999977827072144,
+                    -0.11000008881092072,
+                    1.355000376701355
+                ],
+                "boneRotation": 3.1415858268737793,
+                "parent": "CTRL_tongue_BF_parent"
+            },
+            "BoneConstrains": [
+                {
+                    "name": "Limit Location",
+                    "owner_space": "LOCAL",
+                    "use_min_x": true,
+                    "use_min_y": true,
+                    "use_min_z": true,
+                    "use_max_x": true,
+                    "use_max_y": true,
+                    "use_max_z": true,
+                    "min_x": 0.0,
+                    "min_y": 0.0,
+                    "min_z": -0.029999999329447746,
+                    "max_x": 0.0,
+                    "max_y": 0.0,
+                    "max_z": 0.029999999329447746
+                }
+            ],
+            "CustomShape": "TEVRIG_Circle",
+            "CustomShapeRotation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "CustomShapeLocation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "CustomShapeScale": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "ScaleToBoneLenght": true,
+            "Wireframe": false,
+            "Color": "THEME09"
+        },
+        {
+            "boneName": "CTRL_JawAndFace.001",
+            "Properties": {
+                "boneHead": [
+                    0.28999969363212585,
+                    -2.690720179998607e-08,
+                    1.5600001811981201
+                ],
+                "boneTail": [
+                    0.28999969363212585,
+                    -0.5999999046325684,
+                    1.5600003004074097
+                ],
+                "boneRotation": 3.141589879989624,
+                "parent": "CTRL_FaceRig"
+            },
+            "BoneConstrains": [],
+            "CustomShape": "Plane",
+            "CustomShapeRotation": [
+                1.570796251296997,
+                2.220446049250313e-16,
+                2.220445916901415e-16
+            ],
+            "CustomShapeLocation": [
+                0.29500001668930054,
+                0.0,
+                1.5499999523162842
+            ],
+            "CustomShapeScale": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "ScaleToBoneLenght": false,
+            "Wireframe": false,
+            "Color": "THEME19"
+        },
+        {
+            "boneName": "CRTL_R_Cheek_parent",
+            "Properties": {
+                "boneHead": [
+                    0.23999997973442078,
+                    -1.0661500482456177e-06,
+                    1.5050002336502075
+                ],
+                "boneTail": [
+                    0.23999997973442078,
+                    -0.10000021010637283,
+                    1.505000352859497
+                ],
+                "boneRotation": 3.1415882110595703,
+                "parent": "CTRL_JawAndFace.001"
+            },
+            "BoneConstrains": [],
+            "CustomShape": "TEVRIG_Slider",
+            "CustomShapeRotation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "CustomShapeLocation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "CustomShapeScale": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "ScaleToBoneLenght": true,
+            "Wireframe": false,
+            "Color": "THEME20"
+        },
+        {
+            "boneName": "CRTL_R_Cheek",
+            "Properties": {
+                "boneHead": [
+                    0.23999997973442078,
+                    -3.242128059355309e-07,
+                    1.4900002479553223
+                ],
+                "boneTail": [
+                    0.23999997973442078,
+                    -0.10000033676624298,
+                    1.4900003671646118
+                ],
+                "boneRotation": 3.1415884494781494,
+                "parent": "CRTL_R_Cheek_parent"
+            },
+            "BoneConstrains": [
+                {
+                    "name": "Limit Location",
+                    "owner_space": "LOCAL",
+                    "use_min_x": true,
+                    "use_min_y": true,
+                    "use_min_z": true,
+                    "use_max_x": true,
+                    "use_max_y": true,
+                    "use_max_z": true,
+                    "min_x": 0.0,
+                    "min_y": 0.0,
+                    "min_z": -0.029999999329447746,
+                    "max_x": 0.0,
+                    "max_y": 0.0,
+                    "max_z": 0.0
+                }
+            ],
+            "CustomShape": "TEVRIG_Circle",
+            "CustomShapeRotation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "CustomShapeLocation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "CustomShapeScale": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "ScaleToBoneLenght": true,
+            "Wireframe": false,
+            "Color": "THEME09"
+        },
+        {
+            "boneName": "CTRL_Jaw_BF_Text.002",
+            "Properties": {
+                "boneHead": [
+                    0.23999954760074615,
+                    3.197871834004218e-08,
+                    1.4640003442764282
+                ],
+                "boneTail": [
+                    0.23999960720539093,
+                    -1.1730354287919909e-07,
+                    1.5940003395080566
+                ],
+                "boneRotation": -2.7606463390839053e-06,
+                "parent": "CRTL_R_Cheek_parent"
+            },
+            "BoneConstrains": [
+                {
+                    "name": "Limit Location",
+                    "owner_space": "LOCAL",
+                    "use_min_x": true,
+                    "use_min_y": true,
+                    "use_min_z": true,
+                    "use_max_x": true,
+                    "use_max_y": true,
+                    "use_max_z": true,
+                    "min_x": -0.029999999329447746,
+                    "min_y": -0.029999999329447746,
+                    "min_z": -0.029999999329447746,
+                    "max_x": 0.029999999329447746,
+                    "max_y": 0.029999999329447746,
+                    "max_z": 0.029999999329447746
+                }
+            ],
+            "CustomShape": "TEVRIG_R_Cheek",
+            "CustomShapeRotation": [
+                0.0,
+                4.440892098500626e-16,
+                -4.44089183380283e-16
+            ],
+            "CustomShapeLocation": [
+                0.23999999463558197,
+                -0.699999988079071,
+                0.0
+            ],
+            "CustomShapeScale": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "ScaleToBoneLenght": true,
+            "Wireframe": true,
+            "Color": "THEME09"
+        },
+        {
+            "boneName": "CRTL_L_Cheek_parent",
+            "Properties": {
+                "boneHead": [
+                    0.27000004053115845,
+                    -9.974230579246068e-07,
+                    1.505000114440918
+                ],
+                "boneTail": [
+                    0.27000004053115845,
+                    -0.10000023245811462,
+                    1.5050002336502075
+                ],
+                "boneRotation": 3.1415882110595703,
+                "parent": "CTRL_JawAndFace.001"
+            },
+            "BoneConstrains": [],
+            "CustomShape": "TEVRIG_Slider",
+            "CustomShapeRotation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "CustomShapeLocation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "CustomShapeScale": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "ScaleToBoneLenght": true,
+            "Wireframe": false,
+            "Color": "THEME18"
+        },
+        {
+            "boneName": "CRTL_L_Cheek",
+            "Properties": {
+                "boneHead": [
+                    0.27000004053115845,
+                    -2.623776254040422e-07,
+                    1.4900001287460327
+                ],
+                "boneTail": [
+                    0.27000004053115845,
+                    -0.10000026971101761,
+                    1.4900002479553223
+                ],
+                "boneRotation": 3.1415884494781494,
+                "parent": "CRTL_L_Cheek_parent"
+            },
+            "BoneConstrains": [
+                {
+                    "name": "Limit Location",
+                    "owner_space": "LOCAL",
+                    "use_min_x": true,
+                    "use_min_y": true,
+                    "use_min_z": true,
+                    "use_max_x": true,
+                    "use_max_y": true,
+                    "use_max_z": true,
+                    "min_x": 0.0,
+                    "min_y": 0.0,
+                    "min_z": -0.029999999329447746,
+                    "max_x": 0.0,
+                    "max_y": 0.0,
+                    "max_z": 0.0
+                }
+            ],
+            "CustomShape": "TEVRIG_Circle",
+            "CustomShapeRotation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "CustomShapeLocation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "CustomShapeScale": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "ScaleToBoneLenght": true,
+            "Wireframe": false,
+            "Color": "THEME09"
+        },
+        {
+            "boneName": "CTRL_Jaw_BF_Text.003",
+            "Properties": {
+                "boneHead": [
+                    0.2699996531009674,
+                    5.375774936311473e-09,
+                    1.4640003442764282
+                ],
+                "boneTail": [
+                    0.2699997127056122,
+                    -1.4129895475889498e-07,
+                    1.5940003395080566
+                ],
+                "boneRotation": -2.7606470212049317e-06,
+                "parent": "CRTL_L_Cheek_parent"
+            },
+            "BoneConstrains": [
+                {
+                    "name": "Limit Location",
+                    "owner_space": "LOCAL",
+                    "use_min_x": true,
+                    "use_min_y": true,
+                    "use_min_z": true,
+                    "use_max_x": true,
+                    "use_max_y": true,
+                    "use_max_z": true,
+                    "min_x": -0.029999999329447746,
+                    "min_y": -0.029999999329447746,
+                    "min_z": -0.029999999329447746,
+                    "max_x": 0.029999999329447746,
+                    "max_y": 0.029999999329447746,
+                    "max_z": 0.029999999329447746
+                }
+            ],
+            "CustomShape": "TEVRIG_L_Cheek",
+            "CustomShapeRotation": [
+                0.0,
+                4.440892098500626e-16,
+                -4.44089183380283e-16
+            ],
+            "CustomShapeLocation": [
+                0.23999997973442078,
+                -0.5299999713897705,
+                0.0
+            ],
+            "CustomShapeScale": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "ScaleToBoneLenght": true,
+            "Wireframe": true,
+            "Color": "THEME09"
+        },
+        {
+            "boneName": "CTRL_Nose_Wrinkle_Parent",
+            "Properties": {
+                "boneHead": [
+                    0.30000007152557373,
+                    -9.883008260658244e-07,
+                    1.505000114440918
+                ],
+                "boneTail": [
+                    0.30000007152557373,
+                    -0.10000019520521164,
+                    1.5050002336502075
+                ],
+                "boneRotation": 3.141587257385254,
+                "parent": "CTRL_JawAndFace.001"
+            },
+            "BoneConstrains": [],
+            "CustomShape": "TEVRIG_Slider",
+            "CustomShapeRotation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "CustomShapeLocation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "CustomShapeScale": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "ScaleToBoneLenght": true,
+            "Wireframe": false,
+            "Color": "THEME17"
+        },
+        {
+            "boneName": "CTRL_Nose_Wrinkle",
+            "Properties": {
+                "boneHead": [
+                    0.30000001192092896,
+                    -2.389130031588138e-07,
+                    1.4900001287460327
+                ],
+                "boneTail": [
+                    0.30000001192092896,
+                    -0.10000024735927582,
+                    1.4900002479553223
+                ],
+                "boneRotation": 3.141585111618042,
+                "parent": "CTRL_Nose_Wrinkle_Parent"
+            },
+            "BoneConstrains": [
+                {
+                    "name": "Limit Location",
+                    "owner_space": "LOCAL",
+                    "use_min_x": true,
+                    "use_min_y": true,
+                    "use_min_z": true,
+                    "use_max_x": true,
+                    "use_max_y": true,
+                    "use_max_z": true,
+                    "min_x": 0.0,
+                    "min_y": 0.0,
+                    "min_z": -0.029999999329447746,
+                    "max_x": 0.0,
+                    "max_y": 0.0,
+                    "max_z": 0.0
+                }
+            ],
+            "CustomShape": "TEVRIG_Circle",
+            "CustomShapeRotation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "CustomShapeLocation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "CustomShapeScale": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "ScaleToBoneLenght": true,
+            "Wireframe": false,
+            "Color": "THEME09"
+        },
+        {
+            "boneName": "CTRL_Jaw_BF_Text.004",
+            "Properties": {
+                "boneHead": [
+                    0.3029996454715729,
+                    2.1389620741274484e-08,
+                    1.4640003442764282
+                ],
+                "boneTail": [
+                    0.30299970507621765,
+                    -9.0639844074758e-08,
+                    1.5940003395080566
+                ],
+                "boneRotation": -2.760645202215528e-06,
+                "parent": "CTRL_Nose_Wrinkle_Parent"
+            },
+            "BoneConstrains": [
+                {
+                    "name": "Limit Location",
+                    "owner_space": "LOCAL",
+                    "use_min_x": true,
+                    "use_min_y": true,
+                    "use_min_z": true,
+                    "use_max_x": true,
+                    "use_max_y": true,
+                    "use_max_z": true,
+                    "min_x": -0.029999999329447746,
+                    "min_y": -0.029999999329447746,
+                    "min_z": -0.029999999329447746,
+                    "max_x": 0.029999999329447746,
+                    "max_y": 0.029999999329447746,
+                    "max_z": 0.029999999329447746
+                }
+            ],
+            "CustomShape": "TEVRIG_NoseWrinkle",
+            "CustomShapeRotation": [
+                0.0,
+                4.440892098500626e-16,
+                -4.44089183380283e-16
+            ],
+            "CustomShapeLocation": [
+                -0.19000005722045898,
+                -0.8499999642372131,
+                0.0
+            ],
+            "CustomShapeScale": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "ScaleToBoneLenght": true,
+            "Wireframe": true,
+            "Color": "THEME09"
+        },
+        {
+            "boneName": "CTRL_Jaw_BF_Parent",
+            "Properties": {
+                "boneHead": [
+                    0.2471497654914856,
+                    8.94369378556803e-08,
+                    1.611956238746643
+                ],
+                "boneTail": [
+                    0.2471497654914856,
+                    -0.12999992072582245,
+                    1.6119563579559326
+                ],
+                "boneRotation": 3.1415891647338867,
+                "parent": "CTRL_JawAndFace.001"
+            },
+            "BoneConstrains": [
+                {
+                    "name": "Limit Location",
+                    "owner_space": "LOCAL",
+                    "use_min_x": true,
+                    "use_min_y": true,
+                    "use_min_z": true,
+                    "use_max_x": true,
+                    "use_max_y": true,
+                    "use_max_z": true,
+                    "min_x": 0.0,
+                    "min_y": 0.0,
+                    "min_z": 0.0,
+                    "max_x": 0.0,
+                    "max_y": 0.0,
+                    "max_z": 0.0
+                }
+            ],
+            "CustomShape": "TEVRIG_Slider",
+            "CustomShapeRotation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "CustomShapeLocation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "CustomShapeScale": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "ScaleToBoneLenght": true,
+            "Wireframe": false,
+            "Color": "THEME16"
+        },
+        {
+            "boneName": "CTRL_Jaw_BF",
+            "Properties": {
+                "boneHead": [
+                    0.2471497803926468,
+                    4.473345072142365e-08,
+                    1.611956238746643
+                ],
+                "boneTail": [
+                    0.2471497803926468,
+                    -0.09999997913837433,
+                    1.6119563579559326
+                ],
+                "boneRotation": 3.1415891647338867,
+                "parent": "CTRL_Jaw_BF_Parent"
+            },
+            "BoneConstrains": [
+                {
+                    "name": "Limit Location",
+                    "owner_space": "LOCAL",
+                    "use_min_x": true,
+                    "use_min_y": true,
+                    "use_min_z": true,
+                    "use_max_x": true,
+                    "use_max_y": true,
+                    "use_max_z": true,
+                    "min_x": 0.0,
+                    "min_y": 0.0,
+                    "min_z": -0.029999999329447746,
+                    "max_x": 0.0,
+                    "max_y": 0.0,
+                    "max_z": 0.029999999329447746
+                }
+            ],
+            "CustomShape": "TEVRIG_Circle",
+            "CustomShapeRotation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "CustomShapeLocation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "CustomShapeScale": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "ScaleToBoneLenght": true,
+            "Wireframe": false,
+            "Color": "THEME09"
+        },
+        {
+            "boneName": "CTRL_Jaw_BF_Text",
+            "Properties": {
+                "boneHead": [
+                    0.24714966118335724,
+                    5.69120643945098e-08,
+                    1.5599561929702759
+                ],
+                "boneTail": [
+                    0.24714964628219604,
+                    2.0527934907477174e-07,
+                    1.6899561882019043
+                ],
+                "boneRotation": -3.4759023037622683e-06,
+                "parent": "CTRL_Jaw_BF_Parent"
+            },
+            "BoneConstrains": [
+                {
+                    "name": "Limit Location",
+                    "owner_space": "LOCAL",
+                    "use_min_x": true,
+                    "use_min_y": true,
+                    "use_min_z": true,
+                    "use_max_x": true,
+                    "use_max_y": true,
+                    "use_max_z": true,
+                    "min_x": -0.029999999329447746,
+                    "min_y": -0.029999999329447746,
+                    "min_z": -0.029999999329447746,
+                    "max_x": 0.029999999329447746,
+                    "max_y": 0.029999999329447746,
+                    "max_z": 0.029999999329447746
+                }
+            ],
+            "CustomShape": "TEVRIG_FBJaw",
+            "CustomShapeRotation": [
+                0.0,
+                4.440892098500626e-16,
+                -4.44089183380283e-16
+            ],
+            "CustomShapeLocation": [
+                0.0,
+                -0.699999988079071,
+                0.0
+            ],
+            "CustomShapeScale": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "ScaleToBoneLenght": true,
+            "Wireframe": true,
+            "Color": "THEME09"
+        },
+        {
+            "boneName": "CTRL_Jaw_Parent",
+            "Properties": {
+                "boneHead": [
+                    0.3099997043609619,
+                    1.1012178902092273e-07,
+                    1.6200001239776611
+                ],
+                "boneTail": [
+                    0.3099997043609619,
+                    -0.13999995589256287,
+                    1.6200002431869507
+                ],
+                "boneRotation": 3.1415891647338867,
+                "parent": "CTRL_JawAndFace.001"
+            },
+            "BoneConstrains": [
+                {
+                    "name": "Limit Location",
+                    "owner_space": "LOCAL",
+                    "use_min_x": true,
+                    "use_min_y": true,
+                    "use_min_z": true,
+                    "use_max_x": true,
+                    "use_max_y": true,
+                    "use_max_z": true,
+                    "min_x": 0.0,
+                    "min_y": 0.0,
+                    "min_z": 0.0,
+                    "max_x": 0.0,
+                    "max_y": 0.0,
+                    "max_z": 0.0
+                }
+            ],
+            "CustomShape": "TEVRIG_Area",
+            "CustomShapeRotation": [
+                1.570796251296997,
+                2.220446049250313e-16,
+                2.220445916901415e-16
+            ],
+            "CustomShapeLocation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "CustomShapeScale": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "ScaleToBoneLenght": true,
+            "Wireframe": false,
+            "Color": "THEME16"
+        },
+        {
+            "boneName": "CTRL_Jaw_BF_Text.001",
+            "Properties": {
+                "boneHead": [
+                    0.30999964475631714,
+                    8.025808995171246e-08,
+                    1.568000078201294
+                ],
+                "boneTail": [
+                    0.3099997043609619,
+                    -7.605018481626757e-08,
+                    1.6980000734329224
+                ],
+                "boneRotation": -2.7606465664575808e-06,
+                "parent": "CTRL_Jaw_Parent"
+            },
+            "BoneConstrains": [
+                {
+                    "name": "Limit Location",
+                    "owner_space": "LOCAL",
+                    "use_min_x": true,
+                    "use_min_y": true,
+                    "use_min_z": true,
+                    "use_max_x": true,
+                    "use_max_y": true,
+                    "use_max_z": true,
+                    "min_x": -0.029999999329447746,
+                    "min_y": -0.029999999329447746,
+                    "min_z": -0.029999999329447746,
+                    "max_x": 0.029999999329447746,
+                    "max_y": 0.029999999329447746,
+                    "max_z": 0.029999999329447746
+                }
+            ],
+            "CustomShape": "TEVRIG_Jaw",
+            "CustomShapeRotation": [
+                0.0,
+                4.440892098500626e-16,
+                -4.44089183380283e-16
+            ],
+            "CustomShapeLocation": [
+                0.0,
+                -0.699999988079071,
+                0.0
+            ],
+            "CustomShapeScale": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "ScaleToBoneLenght": true,
+            "Wireframe": true,
+            "Color": "THEME09"
+        },
+        {
+            "boneName": "CTRL_Jaw",
+            "Properties": {
+                "boneHead": [
+                    0.3099995255470276,
+                    6.541846886420899e-08,
+                    1.6200001239776611
+                ],
+                "boneTail": [
+                    0.3099995255470276,
+                    -0.09999995678663254,
+                    1.6200002431869507
+                ],
+                "boneRotation": 3.1415891647338867,
+                "parent": "CTRL_Jaw_Parent"
+            },
+            "BoneConstrains": [
+                {
+                    "name": "Limit Location",
+                    "owner_space": "LOCAL",
+                    "use_min_x": true,
+                    "use_min_y": true,
+                    "use_min_z": true,
+                    "use_max_x": true,
+                    "use_max_y": true,
+                    "use_max_z": true,
+                    "min_x": -0.029999999329447746,
+                    "min_y": -0.029999999329447746,
+                    "min_z": -0.029999999329447746,
+                    "max_x": 0.029999999329447746,
+                    "max_y": 0.029999999329447746,
+                    "max_z": 0.029999999329447746
+                }
+            ],
+            "CustomShape": "TEVRIG_Circle",
+            "CustomShapeRotation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "CustomShapeLocation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "CustomShapeScale": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "ScaleToBoneLenght": true,
+            "Wireframe": false,
+            "Color": "THEME09"
+        }
+    ]
+}
