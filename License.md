@@ -5,7 +5,7 @@
 4. You are not allowed to sell this add-on on any platforms.
 5. Modified versions of this add-on are also not allowed to be distributed.
 
-License Code:TH23ML
+
 
 All my socials  
 
